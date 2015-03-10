@@ -1,4 +1,4 @@
-300 потрясающих бесплатных сервисов (источник - [habr](http://habrahabr.ru/post/250621/))
+300 потрясающих бесплатных сервисов (источник - [habr](http://habrahabr.ru/post/250621/), original - [medium.com](https://medium.com/everything-about-startups-and-entrepreneurship/300-awesome-free-things-e07b3cd5fd5b))
 ===========
 
 <img src="http://habrastorage.org/files/4f8/249/cec/4f8249cece1a4ac397116bf7364f137e.jpg" ></img>
