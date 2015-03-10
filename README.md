@@ -4,7 +4,8 @@
 <div class="content html_format">
       <img src="http://habrastorage.org/files/4f8/249/cec/4f8249cece1a4ac397116bf7364f137e.jpg" ></img>
 
-<img src="http://habrastorage.org/files/e1b/e99/f59/e1be99f5933b4445b87c1f48e409dea7.png" ></img>
+<div style="text-align:center;"><img src="http://habrastorage.org/files/e1b/e99/f59/e1be99f5933b4445b87c1f48e409dea7.png" ></img>
+<div style="text-align:center;">![](//habrastorage.org/files/e1b/e99/f59/e1be99f5933b4445b87c1f48e409dea7.png)</div>
 
 > A.&nbsp;_Бесплатные&nbsp;Веб-Сайты&nbsp;+ Логотипы&nbsp;+ Хостинг&nbsp;+&nbsp;Выставление Счета_
 
@@ -104,7 +105,7 @@
 *   [**ManyContactsBar:**](https://www.manycontacts.com/) _Бесплатная контактная форма вверху вашего веб-сайта._
 *   [**Hello Bar:**](http://hellobar.com) _Получите больше&nbsp;email подписчиков._
 *   [**Sumome List Builder:**](https://sumome.com/app/list-builder) _Собирайте email адреса с помощью lightbox окна._
-*   [**Scroll Triggered Box:**](https://wordpress.org/plugins/dreamgrow-scroll-triggered-box/)_&nbsp;Увеличьте конверсию сайта —  только для Wordpress._
+*   [**Scroll Triggered Box:**](https://wordpress.org/plugins/dreamgrow-scroll-triggered-box/)_&nbsp;Увеличьте конверсию сайта&#8202;—&#8202; только для Wordpress._
 *   [**Sumome Scroll Box:**](http://sumome.com/app/scroll-box)_&nbsp;Вежливая сборка&nbsp;email адресов._
 
 > I. Бесплатные социальные медиа + управление&nbsp;сообществами + анкетирование
