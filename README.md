@@ -7,28 +7,28 @@
 
 > A.&nbsp;_Бесплатные&nbsp;Веб-Сайты&nbsp;+ Логотипы&nbsp;+ Хостинг&nbsp;+&nbsp;Выставление Счета_
 
-*   [**HTML5 UP:**](http://html5up.net/)_ Адаптивные шаблоны&nbsp;HTML5 и&nbsp;CSS3._
-*   [**Bootswatch:**](http://bootswatch.com/)_ Бесплатные темы для&nbsp;Bootstrap._
+*   [**HTML5 UP:**](http://html5up.net/) _Адаптивные шаблоны&nbsp;HTML5 и&nbsp;CSS3._
+*   [**Bootswatch:**](http://bootswatch.com/) _Бесплатные темы для&nbsp;Bootstrap._
 *   [**Templated:**](http://templated.co/)&nbsp;_Коллекция&nbsp;845 бесплатных шаблонов&nbsp;CSS и HTML5._
 *   [**Wordpress.org**](https://wordpress.org/) | [**Wordpress.com**](https://wordpress.com/): _Бесплатное создание веб-сайта._
 *   [**Strikingly.com Domain:**](https://www.strikingly.com/) _Конструктор&nbsp;веб-сайтов._
-*   [**Withoomph**](https://withoomph.com/)**: **_Мгновенное создание логотипов (англ.)._
+*   [**Withoomph**](https://withoomph.com/): _Мгновенное создание логотипов (англ.)._
 *   [**Hipster Logo Generator:**](http://www.hipsterlogogenerator.com/) _Генератор хипстерских логотипов._
 *   [**Squarespace Free Logo:**](http://www.squarespace.com/logo/) _Можно скачать бесплатную версию в маленьком разрешении._
 *   [**Hive:**](https://www.hive.im/) _Первый в мире безлимитный облачный сервис._
-*   [**Invoice to me**](http://invoiceto.me/)**: **_Бесплатный генератор счета._
-*   [**Free Invoice Generator**](https://www.free-invoice-generator.com/)**: **_Альтернативный&nbsp;бесплатный генератор счета._
+*   [**Invoice to me**](http://invoiceto.me/): _Бесплатный генератор счета._
+*   [**Free Invoice Generator**](https://www.free-invoice-generator.com/): _Альтернативный&nbsp;бесплатный генератор счета._
 *   [**Slimvoice:**](http://slimvoice.co/) _Невероятно простой счет._
 
 <a name="habracut"></a>> B. Бесплатные генераторы наименований бизнеса/проекта
 
-*   [**The Name App**](http://thenameapp.com/)**: **_Найдите подходящее название для вашей блестящей идеи&nbsp;(англ.)._
+*   [**The Name App**](http://thenameapp.com/): _Найдите подходящее название для вашей блестящей идеи&nbsp;(англ.)._
 *   [**Naminum:**](http://www.naminum.com/) _Поиск идеального названия для компании (англ.)._
 *   [**Short Domain Search:**](http://shortdomainsearch.com/) _Поиск коротких, доступных доменных имен._
 *   [**Wordoid:**](http://wordoid.com/) _Выберите короткое и легко запоминяющееся названия для вашего бизнеса&nbsp;(англ.)._
 *   [**Hipster Business Name:**](http://www.hipsterbusiness.name/) _Генератор хипстерских названия для бизнеса (англ.)._
-*   [**Impossibility**](http://impossibility.org/)**: **_Лучший генератор доменных имен._
-*   [**Lean Domain Search**](http://www.leandomainsearch.com/)**: **_Мгновенный поиск доменного имени._
+*   [**Impossibility**](http://impossibility.org/): _Лучший генератор доменных имен._
+*   [**Lean Domain Search**](http://www.leandomainsearch.com/): _Мгновенный поиск доменного имени._
 
 > C. Ведение блога
 
@@ -61,21 +61,21 @@
 *   [**SEO Site Checkup:**](http://seositecheckup.com/) _Проверка проблем с SEO на вашем веб-сайте._
 *   [**Hubsport Marketing Grader:**](https://marketing.grader.com/) _Оценка с точки зрения маркетинга._
 *   [**SimilarWeb:**](http://www.similarweb.com/) _Статистика веб-сайта на любом домене._
-*   [**Alexa Ranking:**](http://www.alexa.com/)_&nbsp;Рейтинг и анализ любого веб-сайта._
-*   [**SERPs Rank Checker:**](https://serps.com/tools/rank_checker)_&nbsp;Рейтинг ключевых слов._
-*   [**Keywordtool.io:**](http://keywordtool.io/)_&nbsp;Бесплатная альтернатива&nbsp;Keyword Planner от Google.&nbsp;_
+*   [**Alexa Ranking:**](http://www.alexa.com/) _Рейтинг и анализ любого веб-сайта._
+*   [**SERPs Rank Checker:**](https://serps.com/tools/rank_checker) _Рейтинг ключевых слов._
+*   [**Keywordtool.io:**](http://keywordtool.io/) _Бесплатная альтернатива&nbsp;Keyword Planner от Google.&nbsp;_
 *   _Google:_ [**Analytics**](http://www.google.com/analytics/) &nbsp;| [**Keyword Planner**](http://adwords.google.com/keywordplanner) | [**Webmaster Tools**](https://www.google.com/webmasters/tools/home?hl=en) | [**Trends**](http://www.google.com/trends/)
-*   [**Nibbler:**](http://nibbler.silktide.com/)_&nbsp;Протестируйте любой веб-сайт._
-*   [**Browseo:**](http://www.browseo.net/)_&nbsp;Как видят ваш веб-сайт поисковики._
-*   [**Broken Links:**](http://www.internetmarketingninjas.com/seo-tools/google-sitemap-generator/)_&nbsp;Поиск битых ссылок, редиректов и т.д._
-*   [**Copyscape:**](http://www.copyscape.com/)_&nbsp;Поиск копий вашей страницы по всему интернету._
-*   [**Woorank:**](http://www.woorank.com/)_&nbsp;Интрумент&nbsp;SEO._
-*   [**Google Pagespeed Insights:**](https://developers.google.com/speed/pagespeed/insights/)_&nbsp;Проверьте производительность вашего веб-сайта._
+*   [**Nibbler:**](http://nibbler.silktide.com/) _Протестируйте любой веб-сайт._
+*   [**Browseo:**](http://www.browseo.net/) _Как видят ваш веб-сайт поисковики._
+*   [**Broken Links:**](http://www.internetmarketingninjas.com/seo-tools/google-sitemap-generator/) _Поиск битых ссылок, редиректов и т.д._
+*   [**Copyscape:**](http://www.copyscape.com/) _Поиск копий вашей страницы по всему интернету._
+*   [**Woorank:**](http://www.woorank.com/) _Интрумент&nbsp;SEO._
+*   [**Google Pagespeed Insights:**](https://developers.google.com/speed/pagespeed/insights/) _Проверьте производительность вашего веб-сайта._
 *   [**Pingdom Website Speed Test:**](http://tools.pingdom.com/fpt/)_&nbsp;Проверьте время загрузки вашего веб-сайта._
 *   [**GTMetrics:**](http://gtmetrix.com/)_&nbsp;Проанализируйте производительность любого веб-сайта._
 *   [**Moz Local:**](https://moz.com/local/search) _Может ли вас найти клиент, поиск по индексу&nbsp;(англ.)._
-*   [**XML Sitemaps:**](https://www.xml-sitemaps.com/)_&nbsp;Генератор карт сайта в формате&nbsp;XML и HTML._
-*   [**W3C validator**](http://validator.w3.org/)**: **_Сервис валидации веб-сайта._
+*   [**XML Sitemaps:**](https://www.xml-sitemaps.com/) _Генератор карт сайта в формате&nbsp;XML и HTML._
+*   [**W3C validator**](http://validator.w3.org/): _Сервис валидации веб-сайта._
 *   [**Shopify E-commerce Report:**](https://ecommerce.shopify.com/grader)_&nbsp;Бесплатный отчет по интернет торговле._
 
 > F. Бесплатные оптимизаторы изображений
@@ -146,7 +146,7 @@
 
 > A. Источники&nbsp;бесплатных дизайнов
 
-*   [**Freebbble**](http://freebbble.com/)**: **_Бесплатные элементы дизайна из&nbsp;Dribbble._
+*   [**Freebbble**](http://freebbble.com/): _Бесплатные элементы дизайна из&nbsp;Dribbble._
 *   [**Dribbble:**](https://dribbble.com/search?q=freebie)_&nbsp;Поиск по Dribbble с запросом “freebie”. Сокровище._
 *   [**Graphic Burger:**](http://graphicburger.com/)_&nbsp;Привлекательные работы, сделанные с заботой о каждом пикселе._
 *   [**Pixel Buddha:**](http://pixelbuddha.net/)_&nbsp;Бесплатные и премиум работы для профессионального сообщества._
@@ -202,7 +202,7 @@
 *   [**Dribbble:**](https://dribbble.com/)&nbsp;«_Покажи и расскажи» для дизайнеров._
 *   [**Behance:**](https://www.behance.net/)_&nbsp;Сообщество креативных профессионалов со всего мира._
 *   [**Pttrns:**](http://www.pttrns.com/)_&nbsp;Вдохновение для создания мобильных интерфейсов._
-*   [**Flat UI Design: **](https://www.pinterest.com/warmarc/flat-ui-design/)_Коллекция дизайнов в стиле flat, спасибо&nbsp;_[_Эрику_](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96)_._
+*   [**Flat UI Design: **](https://www.pinterest.com/warmarc/flat-ui-design/) _Коллекция дизайнов в стиле flat, спасибо&nbsp;_[_Эрику_](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96)_._
 *   [**Awwwards:**](http://www.awwwards.com/) _Награды за дизайн, креативность и инновацию._
 *   [**The Starter Kit:**](http://www.thestarterkit.info/) _Источник для программистов и дизайнеров._
 *   [**One Page Love:**](http://onepagelove.com/)_&nbsp;Коллекция одностраничных веб-сайтов._
@@ -226,9 +226,9 @@
 *   [**Death to the Stock Photo:**](http://deathtothestockphoto.com/) _Ежемесячные бесплатные фотографии вам на почту._
 *   [**Foodie’s Feed:**](http://foodiesfeed.com/) _Бесплатные фотографии еды в высоком разрешении._
 *   [**Mazwai:**](http://mazwai.com/) _Бесплатные видео клипы и фотографии._
-*   [**Jéshoots**](http://jeshoots.com/)**: **_Стильные современные фотографии._
+*   [**Jéshoots**](http://jeshoots.com/): _Стильные современные фотографии._
 *   [**Super Famous:**](http://superfamous.com/) _Фотографии голландского дизайнера Folkert Gorter._
-*   [**Picography**](http://picography.co/)**: **_Бесплатные фотографии высокого&nbsp;разрешения._
+*   [**Picography**](http://picography.co/): _Бесплатные фотографии высокого&nbsp;разрешения._
 *   [**Pixabay:**](http://pixabay.com/) _Бесплатные качественные фотографии._
 *   [**Magdeleine:**](http://magdeleine.co/) _Бесплатная качественная фотография на каждый день._
 *   [**Snapographic:**](http://snapographic.com/) _Бесплатные стоковые фотографии для персонального и коммерческого использования._
@@ -238,7 +238,7 @@
 *   [**Picjumbo:**](http://picjumbo.com/) _Абсолютно бесплатные фотографии._
 *   [**Life of Pix:**](http://www.lifeofpix.com/)&nbsp;_Бесплатные фотографии высокого&nbsp;разрешения._
 *   [**Gratisography:**](http://www.gratisography.com/)&nbsp;_Бесплатные фотографии высокого&nbsp;разрешения._
-*   [**Getrefe:**](http://getrefe.com/downloads/category/free/)_ Бесплатные фотографии._
+*   [**Getrefe:**](http://getrefe.com/downloads/category/free/) _Бесплатные фотографии._
 *   [**IM Free:**](http://www.imcreator.com/free)&nbsp;_Коллекция бесплатных фотографий._
 *   [**Cupcake:**](http://cupcake.nilssonlee.se/) _Фотографии от Jonas Nilsson Lee._
 *   [**The Pattern Library:**](http://thepatternlibrary.com/) _Бесплатные патерны для вашего проекта._
@@ -246,7 +246,7 @@
 *   [**ISO Republic:**](http://isorepublic.com/) _Высококачественные бесплатные фотографии для творческих людей._
 *   [**Stokpic:**](http://stokpic.com/) _Бесплатные фотографии._
 *   [**Kaboompics:**](http://kaboompics.com/) _Лучший способ получить бесплатные изображения._
-*   [**Function**](http://wefunction.com/category/free-photos/)**: **_Бесплатные паки фотографий._
+*   [**Function**](http://wefunction.com/category/free-photos/): _Бесплатные паки фотографий._
 *   [**MMT:**](http://mmt.li/) _Бесплатные стоковые фотографии от Jeffrey Betts._
 *   [**Paul Jarvis:**](http://pjrvs.com/a/photos)&nbsp;_Бесплатные фотографии высокого&nbsp;разрешения._
 *   [**Lock &amp; Stock Photos:**](http://lockandstockphotos.com/) _Бесплатные стоки для вас._
@@ -266,7 +266,7 @@
 > E.&nbsp;Бесплатная типографика
 
 *   [**TypeGenius:**](http://www.typegenius.com/) _Поиск идеальной комбинации шрифтов для вашего проект._
-*   [**Font Squirrel:**](http://www.fontsquirrel.com/) 100_% бесплатные коммерческие шрифты._
+*   [**Font Squirrel:**](http://www.fontsquirrel.com/) _100% бесплатные коммерческие шрифты._
 *   [**FontFaceNinja:**](http://www.fontface.ninja/) _Расширение для браузера для отображения шрифтов, которые использует веб-сайт._
 *   [**Google Fonts:**](http://www.google.com/fonts) _Бесплатные шрифты, оптимизированные для веб-сайтов._
 *   [**Beautiful Web Type:**](http://hellohappy.org/beautiful-web-type/) _Лучшие&nbsp;примеры&nbsp;использования Google шрифтов._
@@ -284,7 +284,7 @@
 *   [**Glyphsearch:**](http://glyphsearch.com/)_&nbsp;Поиск пиктограмм в различных базах данных._
 *   [**MakeAppIcon:**](http://makeappicon.com/)_&nbsp;Генератор иконки различных размеров для приложения._
 *   [**Endless Icons:**](http://www.endlessicons.com/)_&nbsp;Бесплатные плоские иконки._
-*   [**Ico Moon:**](https://icomoon.io/)** 4000**_+ бесплатных векторных иконок, генератор иконок._
+*   [**Ico Moon:**](https://icomoon.io/) _4000+ бесплатных векторных иконок, генератор иконок._
 *   [**The Noun Project:**](http://thenounproject.com/)_&nbsp;Тысячи иконок от различных дизайнеров._
 *   [**Perfect Icons:**](http://perfecticons.com/) _Создание пиктограмм социальных сетей._
 *   [**Icon Finder:**](https://www.iconfinder.com/free_icons)_&nbsp;Бесплатные иконки._
@@ -307,14 +307,14 @@
 
 > A. Фоновая музыка для&nbsp;фокусирования на работе
 
-*   [**Noisli**](http://www.noisli.com/)**: **_Генератор фоновых шумов._
+*   [**Noisli**](http://www.noisli.com/): _Генератор фоновых шумов._
 *   [**Noizio:**](http://noiz.io/)_&nbsp;Спокойные звуки для релакса и продуктивности._
 *   [**Defonic:**](http://defonic.com/) _Совмещение различных звуков в мелодию._
 *   [**Designers.mx:**](https://designers.mx/)_&nbsp;Плейлисты, собранные дизайнерами для дизайнеров._
 
 > B. Избежать отвлечения
 
-*   [**Self Control**](http://selfcontrolapp.com/)**: **_Mac: бесплатное приложение для того, чтобы избежать отвлекающих веб-сайтов._
+*   [**Self Control**](http://selfcontrolapp.com/): _Mac: бесплатное приложение для того, чтобы избежать отвлекающих веб-сайтов._
 *   [**Cold Turkey:**](http://getcoldturkey.com/) _Windows: временная блокировка отвлекающих веб-сайтов._
 
 > C. Организованность и совместная деятельность
