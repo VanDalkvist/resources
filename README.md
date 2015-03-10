@@ -142,7 +142,7 @@
 
 * * *
 
-<div style="text-align:center;">![](http://habrastorage.org/getpro/habr/post_images/5bf/292/8e7/5bf2928e771aad98563055b07bb54b7f.png)</div>
+![habr](http://habrastorage.org/getpro/habr/post_images/5bf/292/8e7/5bf2928e771aad98563055b07bb54b7f.png)
 
 ## → Дизайн&nbsp;+ Код&nbsp;←
 
