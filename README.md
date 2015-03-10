@@ -1,11 +1,9 @@
 300 потрясающих бесплатных сервисов
 ===========
 
-<div class="content html_format">
-      <img src="http://habrastorage.org/files/4f8/249/cec/4f8249cece1a4ac397116bf7364f137e.jpg" ></img>
+<img src="http://habrastorage.org/files/4f8/249/cec/4f8249cece1a4ac397116bf7364f137e.jpg" ></img>
 
-<div style="text-align:center;"><img src="http://habrastorage.org/files/e1b/e99/f59/e1be99f5933b4445b87c1f48e409dea7.png" ></img>
-<div style="text-align:center;">![](//habrastorage.org/files/e1b/e99/f59/e1be99f5933b4445b87c1f48e409dea7.png)</div>
+![]("http://habrastorage.org/files/e1b/e99/f59/e1be99f5933b4445b87c1f48e409dea7.png")
 
 > A.&nbsp;_Бесплатные&nbsp;Веб-Сайты&nbsp;+ Логотипы&nbsp;+ Хостинг&nbsp;+&nbsp;Выставление Счета_
 
