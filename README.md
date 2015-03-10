@@ -1,22 +1,7 @@
-<div class="post translation shortcuts_item" id="post_250621">
-  	<div class="published">15 февраля в 17:07</div>  
-
-# 
-
         <span class="post_title">300 потрясающих бесплатных сервисов</span>
 
-			<span class="flag flag_translation">перевод</span>
-
-  	<div class="hubs">
-		[Интерфейсы](http://habrahabr.ru/hub/ui/ "Вы подписаны на этот хаб")<span class="profiled_hub" title="Профильный хаб">*</span>, 
-		[Типографика](http://habrahabr.ru/hub/typography/ "Вы не подписаны на этот хаб")<span class="profiled_hub" title="Профильный хаб">*</span>, 
-		[Веб-разработка](http://habrahabr.ru/hub/webdev/ "Вы подписаны на этот хаб")<span class="profiled_hub" title="Профильный хаб">*</span>, 
-		[Веб-дизайн](http://habrahabr.ru/hub/web_design/ "Вы подписаны на этот хаб")<span class="profiled_hub" title="Профильный хаб">*</span>, 
-		[Высокая производительность](http://habrahabr.ru/hub/hi/ "Вы не подписаны на этот хаб")<span class="profiled_hub" title="Профильный хаб">*</span>
-</div>
-
-    <div class="content html_format">
-      ![](//habrastorage.org/files/4f8/249/cec/4f8249cece1a4ac397116bf7364f137e.jpg)
+<div class="content html_format">
+      <img src="http://habrastorage.org/files/4f8/249/cec/4f8249cece1a4ac397116bf7364f137e.jpg" ></img>
 
 <div style="text-align:center;">![](//habrastorage.org/files/e1b/e99/f59/e1be99f5933b4445b87c1f48e409dea7.png)</div>
 
@@ -400,64 +385,3 @@
 *   [**HowMuchToMakeAnApp:**](http://howmuchtomakeanapp.com/)_&nbsp;Калькулятор стоимости создания мобильного приложения._
 *   [**App vs. Website:**](http://howmuchtomakeanapp.com/build-a-website-vs-app/)_&nbsp;Должен ли я построить веб-сайт или приложение?_
 
-**От [переводчика](http://pavel.shimansky.ru/).** _Со всеми пожеланиями и замечаниями по поводу перевода прошу обращаться ко мне в личку. Спасибо!_
-  	<div class="clear"></div>
-    </div>
-
-*   [инструменты](http://habrahabr.ru/search/?q=%5B%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%5D&amp;target_type=posts)
-*   , [продуктивность](http://habrahabr.ru/search/?q=%5B%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C%5D&amp;target_type=posts)
-*   , [список](http://habrahabr.ru/search/?q=%5B%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%5D&amp;target_type=posts)
-*   [изменить свои метки](#)
-
-    <div class="infopanel_wrapper">
-	<div class="infopanel " id="infopanel_post_250621">
-
-				<div class="voting   ">
-
-						<span class="plus" title="Срок голосования истек."></span>
-
-					<div class="mark positive ">
-							<span class="score" title="Всего 341: ↑325 и ↓16">+309</span>
-					</div>
-
-						<span class="minus" title="Срок голосования истек."></span>
-
-				</div>
-
-		<div class="pageviews" title="Просмотры публикации">448444</div>
-
-		<div class="favorite">
-				[ ](# "Добавить в избранное")
-		</div>
-		<div class="favs_count" title="Количество пользователей, добавивших публикацию в избранное">7156</div>
-
-			<div class="original-author">
-				[Ali Mese](https://medium.com/everything-about-startups-and-entrepreneurship/300-awesome-free-things-e07b3cd5fd5b "Автор оригинала: Ali Mese")
-			</div>
-
-				<div class="author">
-					[shimapa23](http://habrahabr.ru/users/shimapa23/ "Автор текста")
-					<span class="rating" title="рейтинг пользователя">310,1</span>
-						[G+](https://plus.google.com/104033863790878052116)
-				</div>
-
-			<div class="share">
-				<div class="twitter">
-					[](http://twitter.com/intent/tweet?text=300+%D0%BF%D0%BE%D1%82%D1%80%D1%8F%D1%81%D0%B0%D1%8E%D1%89%D0%B8%D1%85+%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D1%85+%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%BE%D0%B2+http://habr.ru/p/250621/+via+%40habrahabr+%23habr "Опубликовать ссылку в Twitter")
-				</div>
-				<div class="vkontakte">
-					[](http://vk.com/share.php?url=http://habrahabr.ru/post/250621/ "Опубликовать ссылку во ВКонтакте")
-				</div>
-				<div class="facebook">
-					[](https://www.facebook.com/sharer/sharer.php?u=http://habrahabr.ru/post/250621/ "Опубликовать ссылку в Facebook")
-				</div>
-				<div class="googleplus">
-					[](https://plus.google.com/share?url=http://habrahabr.ru/post/250621/ "Опубликовать ссылку в Google Plus")
-				</div>
-			</div>
-
-	</div>
-	<div class="clear"></div>
-</div>
-
-	</div>
