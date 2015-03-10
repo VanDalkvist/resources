@@ -336,7 +336,7 @@
 
 * * *
 
-<div style="text-align:center;">![](http://habrastorage.org/getpro/habr/post_images/7a2/d85/7df/7a2d857df340f3d9b8e347df8d353b9d.png)</div>
+![](http://habrastorage.org/getpro/habr/post_images/7a2/d85/7df/7a2d857df340f3d9b8e347df8d353b9d.png)
 
 ## → Делать открытия и учиться&nbsp;←
 
