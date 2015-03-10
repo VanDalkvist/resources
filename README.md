@@ -10,7 +10,7 @@
 *   [**HTML5 UP:**](http://html5up.net/)_ Адаптивные шаблоны&nbsp;HTML5 и&nbsp;CSS3._
 *   [**Bootswatch:**](http://bootswatch.com/)_ Бесплатные темы для&nbsp;Bootstrap._
 *   [**Templated:**](http://templated.co/)&nbsp;_Коллекция&nbsp;845 бесплатных шаблонов&nbsp;CSS и HTML5._
-*   [**Wordpress.org**](https://wordpress.org/)** | **[**Wordpress.com**](https://wordpress.com/)**: **_Бесплатное создание веб-сайта._
+*   [**Wordpress.org**](https://wordpress.org/) | [**Wordpress.com**](https://wordpress.com/): _Бесплатное создание веб-сайта._
 *   [**Strikingly.com Domain:**](https://www.strikingly.com/) _Конструктор&nbsp;веб-сайтов._
 *   [**Withoomph**](https://withoomph.com/)**: **_Мгновенное создание логотипов (англ.)._
 *   [**Hipster Logo Generator:**](http://www.hipsterlogogenerator.com/) _Генератор хипстерских логотипов._
@@ -50,7 +50,7 @@
 *   [**Buzzsumo:**](http://buzzsumo.com/) _Анализ контента веб-сайтов._
 *   [**Hubspot Blog Topic Generator:**](http://www.hubspot.com/blog-topic-generator)&nbsp;_Идеи для статей&nbsp;(англ.)._
 *   [**Swayy:**](http://www.swayy.co/) _Поиск самого привлекательного контента._
-*   _Прочее: _[**Google+ What’s Hot**](https://plus.google.com/explore/_) | **[Twitter Trending](https://twitter.com/)****&nbsp;| **[**Quora**](http://www.quora.com/Content-Strategy) | [**Reddit**](http://www.reddit.com/)
+*   _Прочее:_ [**Google+ What’s Hot**](https://plus.google.com/explore/) | [Twitter Trending](https://twitter.com/) &nbsp; |  [**Quora**](http://www.quora.com/Content-Strategy) | [**Reddit**](http://www.reddit.com/)
 
 > E. Бесплатный SEO + анализ веб-сайтов
 
@@ -64,7 +64,7 @@
 *   [**Alexa Ranking:**](http://www.alexa.com/)_&nbsp;Рейтинг и анализ любого веб-сайта._
 *   [**SERPs Rank Checker:**](https://serps.com/tools/rank_checker)_&nbsp;Рейтинг ключевых слов._
 *   [**Keywordtool.io:**](http://keywordtool.io/)_&nbsp;Бесплатная альтернатива&nbsp;Keyword Planner от Google.&nbsp;_
-*   _Google: _**[Analytics](http://www.google.com/analytics/)**&nbsp;| [**Keyword Planner**](http://adwords.google.com/keywordplanner) | [**Webmaster Tools**](https://www.google.com/webmasters/tools/home?hl=en) | [**Trends**](http://www.google.com/trends/)
+*   _Google:_ [**Analytics**](http://www.google.com/analytics/) &nbsp;| [**Keyword Planner**](http://adwords.google.com/keywordplanner) | [**Webmaster Tools**](https://www.google.com/webmasters/tools/home?hl=en) | [**Trends**](http://www.google.com/trends/)
 *   [**Nibbler:**](http://nibbler.silktide.com/)_&nbsp;Протестируйте любой веб-сайт._
 *   [**Browseo:**](http://www.browseo.net/)_&nbsp;Как видят ваш веб-сайт поисковики._
 *   [**Broken Links:**](http://www.internetmarketingninjas.com/seo-tools/google-sitemap-generator/)_&nbsp;Поиск битых ссылок, редиректов и т.д._
@@ -80,7 +80,7 @@
 
 > F. Бесплатные оптимизаторы изображений
 
-*   [**TinyJPG**](https://tinyjpg.com/)** | **[**TinyPNG**](https://tinypng.com/) _Сжимает изображения._
+*   [**TinyJPG**](https://tinyjpg.com/) | [**TinyPNG**](https://tinypng.com/) _Сжимает изображения._
 *   [**Kraken:**](https://kraken.io/web-interface) _Оптимизация изображение и увеличение скорости работы веб-сайта._
 *   [**ImageOptimizer:**](http://www.imageoptimizer.net/Pages/Home.aspx) _Изменяет размер, сжимает и оптимизирует ваше изображение._
 *   [**ImageOptim:**](https://imageoptim.com/) _Делает так, чтобы изображения занимали меньше места и быстрее грузились._
@@ -254,10 +254,14 @@
 *   [**Bucketlistly:**](http://photos.bucketlistly.com/) _Коллекция фотографий из путешествий_
 *   Еще немного источников: [**Free Digital Photos**](http://www.freedigitalphotos.net/) |[**Morguefile**](http://morguefile.com/) | [**Public Domain Pictures**](http://www.publicdomainpictures.net/) | [**Stockvault**](http://www.stockvault.net/) | [**ImageFree**](http://www.imagefree.com/) | [**Rgbstock**](http://www.dreamstime.com/free-images_pg1) |[**Dreamstime**](http://www.rgbstock.com/) | [**Free Images**](http://www.freeimages.com/) | [**Free Range Stock**](http://freerangestock.com/) | [**Free Photos Bank**](http://freephotosbank.com/)
 *   **_Вручную отобранные коллекции бесплатных фотографий:_**
-*   → от&nbsp;_Free Goodies for Designers: (_[**здесь**](http://dealjumbo.com/freebies/the-ultimate-photo-pack-free-version/) | [**здесь**](http://dealjumbo.com/freebies/people-places-and-things-photo-bundle/) | [**здесь**](http://dealjumbo.com/freebies/24-free-photos-vintage-workshop/) | [**здесь**](http://dealjumbo.com/freebies/30-free-photos-from-kaboompics/) | [**здесь**](http://dealjumbo.com/freebies/12-free-nature-photos/) | [**здесь**](http://dealjumbo.com/freebies/12-free-nature-photos-v-2/) | [**здесь**](http://dealjumbo.com/freebies/12-free-nature-photos-v-3/) | [**здесь**](http://dealjumbo.com/freebies/13-free-geometric-backgroundsshapes/) |&nbsp;[**здесь**](http://dealjumbo.com/freebies/10-free-geometric-backgrounds/) | и&nbsp;[**здесь**](http://dealjumbo.com/freebies/free-hero-header-presentation-images/)),
-*   _→ от&nbsp;Deal Jumbo: (_[**здесь**](http://dealjumbo.com/freebies/the-ultimate-photo-pack-free-version/) | [**здесь**](http://dealjumbo.com/freebies/people-places-and-things-photo-bundle/) | [**здесь**](http://dealjumbo.com/freebies/24-free-photos-vintage-workshop/) | [**здесь**](http://dealjumbo.com/freebies/30-free-photos-from-kaboompics/) | [**здесь**](http://dealjumbo.com/freebies/12-free-nature-photos/) | [**здесь**](http://dealjumbo.com/freebies/12-free-nature-photos-v-2/) | [**здесь**](http://dealjumbo.com/freebies/12-free-nature-photos-v-3/) | [**здесь**](http://dealjumbo.com/freebies/13-free-geometric-backgroundsshapes/) |[**здесь**](http://dealjumbo.com/freebies/10-free-geometric-backgrounds/) | и&nbsp;[**здесь**](http://dealjumbo.com/freebies/free-hero-header-presentation-images/)),
-*   _→ от&nbsp;Dribbble: (_[**здесь**](https://dribbble.com/shots/1659014-Free-Download-Nature-Photo-Pack) | [**здесь**](https://dribbble.com/shots/1584133-2014-workspace-free-photos) | [**здесь**](https://dribbble.com/shots/1561280-Free-Vintage-Photos) | [**здесь**](https://dribbble.com/shots/1093355-Free-Blurred-Backgrounds) | [**здесь**](https://dribbble.com/shots/609751-8-Backgrounds-Free-download) | [**здесь**](https://dribbble.com/shots/1671186-Hip-Bundle-mockups-collection) | [**здесь**](https://dribbble.com/shots/1789659-Freebie-Friday) |&nbsp;[**здесь**](https://dribbble.com/shots/1669946-Freebie-Hero-Image) | и&nbsp;[**здесь**](https://dribbble.com/shots/1619059-His-Mercies-Background-2x)),
-*   _→ от&nbsp;Graphic Burger: (_[**здесь**](http://graphicburger.com/wood-forest-free-photos/) | [**здесь**](http://graphicburger.com/iceland-free-photos-vol-1/) | [**здесь**](http://graphicburger.com/iceland-free-photos-vol-2/) | [**здесь**](http://graphicburger.com/5-bokeh-backgrounds-vol-1/) | [**здесь**](http://graphicburger.com/3-infinite-wooden-floors/) | [**здесь**](http://graphicburger.com/5-blurred-backgrounds-vol-1/) | и&nbsp;[**здесь**](http://graphicburger.com/3-curved-wooden-backdrops-vol-1/))
+
+    → от&nbsp;_Free Goodies for Designers: (_[**здесь**](http://dealjumbo.com/freebies/the-ultimate-photo-pack-free-version/) | [**здесь**](http://dealjumbo.com/freebies/people-places-and-things-photo-bundle/) | [**здесь**](http://dealjumbo.com/freebies/24-free-photos-vintage-workshop/) | [**здесь**](http://dealjumbo.com/freebies/30-free-photos-from-kaboompics/) | [**здесь**](http://dealjumbo.com/freebies/12-free-nature-photos/) | [**здесь**](http://dealjumbo.com/freebies/12-free-nature-photos-v-2/) | [**здесь**](http://dealjumbo.com/freebies/12-free-nature-photos-v-3/) | [**здесь**](http://dealjumbo.com/freebies/13-free-geometric-backgroundsshapes/) |&nbsp;[**здесь**](http://dealjumbo.com/freebies/10-free-geometric-backgrounds/) | и&nbsp;[**здесь**](http://dealjumbo.com/freebies/free-hero-header-presentation-images/)),
+
+  _→ от&nbsp;Deal Jumbo: (_[**здесь**](http://dealjumbo.com/freebies/the-ultimate-photo-pack-free-version/) | [**здесь**](http://dealjumbo.com/freebies/people-places-and-things-photo-bundle/) | [**здесь**](http://dealjumbo.com/freebies/24-free-photos-vintage-workshop/) | [**здесь**](http://dealjumbo.com/freebies/30-free-photos-from-kaboompics/) | [**здесь**](http://dealjumbo.com/freebies/12-free-nature-photos/) | [**здесь**](http://dealjumbo.com/freebies/12-free-nature-photos-v-2/) | [**здесь**](http://dealjumbo.com/freebies/12-free-nature-photos-v-3/) | [**здесь**](http://dealjumbo.com/freebies/13-free-geometric-backgroundsshapes/) |[**здесь**](http://dealjumbo.com/freebies/10-free-geometric-backgrounds/) | и&nbsp;[**здесь**](http://dealjumbo.com/freebies/free-hero-header-presentation-images/)),
+
+   _→ от&nbsp;Dribbble: (_[**здесь**](https://dribbble.com/shots/1659014-Free-Download-Nature-Photo-Pack) | [**здесь**](https://dribbble.com/shots/1584133-2014-workspace-free-photos) | [**здесь**](https://dribbble.com/shots/1561280-Free-Vintage-Photos) | [**здесь**](https://dribbble.com/shots/1093355-Free-Blurred-Backgrounds) | [**здесь**](https://dribbble.com/shots/609751-8-Backgrounds-Free-download) | [**здесь**](https://dribbble.com/shots/1671186-Hip-Bundle-mockups-collection) | [**здесь**](https://dribbble.com/shots/1789659-Freebie-Friday) |&nbsp;[**здесь**](https://dribbble.com/shots/1669946-Freebie-Hero-Image) | и&nbsp;[**здесь**](https://dribbble.com/shots/1619059-His-Mercies-Background-2x)),
+ 
+     _→ от&nbsp;Graphic Burger: (_[**здесь**](http://graphicburger.com/wood-forest-free-photos/) | [**здесь**](http://graphicburger.com/iceland-free-photos-vol-1/) | [**здесь**](http://graphicburger.com/iceland-free-photos-vol-2/) | [**здесь**](http://graphicburger.com/5-bokeh-backgrounds-vol-1/) | [**здесь**](http://graphicburger.com/3-infinite-wooden-floors/) | [**здесь**](http://graphicburger.com/5-blurred-backgrounds-vol-1/) | и&nbsp;[**здесь**](http://graphicburger.com/3-curved-wooden-backdrops-vol-1/))
 
 > E.&nbsp;Бесплатная типографика
 
@@ -284,7 +288,7 @@
 *   [**The Noun Project:**](http://thenounproject.com/)_&nbsp;Тысячи иконок от различных дизайнеров._
 *   [**Perfect Icons:**](http://perfecticons.com/) _Создание пиктограмм социальных сетей._
 *   [**Icon Finder:**](https://www.iconfinder.com/free_icons)_&nbsp;Бесплатные иконки._
-*   _Бесплатные круглые&nbsp;иконки: _[**Doodle Set**](http://roundicons.com/doodle-icons-free-set/)** | **[**Flat Set**](http://roundicons.com/free-icons/)** | **[**Vector Line Set**](http://roundicons.com/free-vector-line-icons-set/)
+*   _Бесплатные круглые иконки:_ [**Doodle Set**](http://roundicons.com/doodle-icons-free-set/) | [**Flat Set**](http://roundicons.com/free-icons/) | [**Vector Line Set**](http://roundicons.com/free-vector-line-icons-set/)
 *   [**Icon Sweets:**](http://iconsweets.com/) _60 бесплатных векторных иконок для&nbsp;Photoshop._
 
 > G. Прочие бесплатные инструменты
