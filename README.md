@@ -1,13 +1,16 @@
 # Resources and useful things 
 
-* [Common](https://github.com/VanDalkvist/resources/blob/master/common.md)
+* [**Common**](https://github.com/VanDalkvist/resources/blob/master/common.md)
 
-* [Articles](https://github.com/VanDalkvist/resources/blob/master/articles.md)
+* [**Articles**](https://github.com/VanDalkvist/resources/blob/master/articles.md)
 
-* [Gulp - modules](https://github.com/VanDalkvist/resources/blob/master/gulp-plugins.md)
+* [**Web-libraries**](https://github.com/VanDalkvist/resources/blob/master/web-libraries.md)
 
-* [AngularJS](https://github.com/VanDalkvist/resources/blob/master/angular.md)
+* [**Gulp - modules**](https://github.com/VanDalkvist/resources/blob/master/gulp-plugins.md)
 
-* [Android](https://github.com/VanDalkvist/resources/blob/master/android.md)
+* [**AngularJS**](https://github.com/VanDalkvist/resources/blob/master/angular.md)
 
-* [3D](https://github.com/VanDalkvist/resources/blob/master/3D.md)
+* [**Android**](https://github.com/VanDalkvist/resources/blob/master/android.md)
+
+* [**3D**](https://github.com/VanDalkvist/resources/blob/master/3D.md)
+* 
