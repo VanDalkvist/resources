@@ -1,4 +1,4 @@
-# Resources and useful
+# Resources and useful things 
 
 * [Common](https://github.com/VanDalkvist/resources/blob/master/common.md)
 
