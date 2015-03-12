@@ -9,4 +9,4 @@ Android
 
 ###Material design
 
-* [mdicons](http://materialdesignicons.com/) - Material design icons [github](https://github.com/Templarian/MaterialDesign)
+* [**mdicons**](http://materialdesignicons.com/) - Material design icons [github](https://github.com/Templarian/MaterialDesign)
