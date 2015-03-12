@@ -2,6 +2,8 @@
 
 * [**Common**](https://github.com/VanDalkvist/resources/blob/master/common.md)
 
+* [**Services**](https://github.com/VanDalkvist/resources/blob/master/services.md)
+
 * [**Articles**](https://github.com/VanDalkvist/resources/blob/master/articles.md)
 
 * [**Web-libraries**](https://github.com/VanDalkvist/resources/blob/master/web-libraries.md)
