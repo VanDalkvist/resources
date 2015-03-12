@@ -13,3 +13,8 @@
 * [**Android**](https://github.com/VanDalkvist/resources/blob/master/android.md)
 
 * [**3D**](https://github.com/VanDalkvist/resources/blob/master/3D.md)
+
+# Quotations
+
+  “What I cannot create, I do not understand.”
+    — [Richard P. Feynman](http://en.wikipedia.org/wiki/Richard_Feynman)
