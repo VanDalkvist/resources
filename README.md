@@ -18,5 +18,10 @@
 
 # Quotations
 
-  “What I cannot create, I do not understand.”
-    — [Richard P. Feynman](http://en.wikipedia.org/wiki/Richard_Feynman)
+> What I cannot create, I do not understand.
+
+    [_- Richard P. Feynman_](http://en.wikipedia.org/wiki/Richard_Feynman)
+
+> Ah, whatever problem you have. If you have this problem, this solves it.
+
+    [_- Scott Hanselman (@shanselman)_](https://twitter.com/shanselman/status/461532471037677568)
