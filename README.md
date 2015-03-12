@@ -6,6 +6,8 @@
 
 * [**Web-libraries**](https://github.com/VanDalkvist/resources/blob/master/web-libraries.md)
 
+* [**Node.js**](https://github.com/VanDalkvist/resources/blob/master/node.js.md)
+
 * [**Gulp - modules**](https://github.com/VanDalkvist/resources/blob/master/gulp-plugins.md)
 
 * [**AngularJS**](https://github.com/VanDalkvist/resources/blob/master/angular.md)
