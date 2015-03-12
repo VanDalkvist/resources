@@ -13,4 +13,3 @@
 * [**Android**](https://github.com/VanDalkvist/resources/blob/master/android.md)
 
 * [**3D**](https://github.com/VanDalkvist/resources/blob/master/3D.md)
-* 
