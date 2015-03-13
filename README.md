@@ -10,6 +10,8 @@
 
 * [**Node.js**](https://github.com/VanDalkvist/resources/blob/master/node.js.md)
 
+* [**Phonegap**](https://github.com/VanDalkvist/resources/blob/master/phonegap.md)
+
 * [**Gulp - modules**](https://github.com/VanDalkvist/resources/blob/master/gulp-plugins.md)
 
 * [**AngularJS**](https://github.com/VanDalkvist/resources/blob/master/angular.md)
