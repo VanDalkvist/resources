@@ -8,4 +8,4 @@
 
 * [Doppler](https://github.com/DanielRapp/doppler) - very interesting implementation of using Doppler effect to Sense Gestures
 
-* [javascript-class-pattern](http://arjanvandergaag.nl/blog/javascript-class-pattern.html)
+* [Javascript Class pattern](http://arjanvandergaag.nl/blog/javascript-class-pattern.html)
