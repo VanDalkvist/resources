@@ -7,3 +7,5 @@
 * [Законы движения планет](http://fizmat.by/astronomija/dvizhenie_planet)
 
 * [Doppler](https://github.com/DanielRapp/doppler) - very interesting implementation of using Doppler effect to Sense Gestures
+
+* [javascript-class-pattern](http://arjanvandergaag.nl/blog/javascript-class-pattern.html)
