@@ -28,6 +28,10 @@
 
 * [3D](https://github.com/VanDalkvist/resources/blob/master/3D.md)
 
+* [**Applications**](https://github.com/VanDalkvist/resources/blob/master/applications.md)
+
+* [**Hosting**](https://github.com/VanDalkvist/resources/blob/master/hosting.md)
+
 # Quotations
 
 > What I cannot create, I do not understand.
