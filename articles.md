@@ -9,3 +9,5 @@
 * [Doppler](https://github.com/DanielRapp/doppler) - very interesting implementation of using Doppler effect to Sense Gestures
 
 * [Javascript Class pattern](http://arjanvandergaag.nl/blog/javascript-class-pattern.html)
+
+* [Матрица компетентности программиста](http://grompe.org.ru/static/prog_comp_matrix_ru.html)
