@@ -2,27 +2,27 @@
 
 * [**Common**](https://github.com/VanDalkvist/resources/blob/master/common.md)
 
-* [**Services**](https://github.com/VanDalkvist/resources/blob/master/services.md)
+* [Services](https://github.com/VanDalkvist/resources/blob/master/services.md)
 
 * [**Articles**](https://github.com/VanDalkvist/resources/blob/master/articles.md)
 
-* [**Web-libraries**](https://github.com/VanDalkvist/resources/blob/master/web-libraries.md)
+* [Web-libraries](https://github.com/VanDalkvist/resources/blob/master/web-libraries.md)
 
 * [**Node.js**](https://github.com/VanDalkvist/resources/blob/master/node.js.md)
 
-* [**Security**](https://github.com/VanDalkvist/resources/blob/master/security.md)
+* [Security](https://github.com/VanDalkvist/resources/blob/master/security.md)
 
 * [**Samples and Libraries Source**](https://github.com/VanDalkvist/resources/blob/master/samples-and-libraries.md)
 
-* [**Blogs**](https://github.com/VanDalkvist/resources/blob/master/blogs.md)
+* [Blogs](https://github.com/VanDalkvist/resources/blob/master/blogs.md)
 
 * [**Phonegap**](https://github.com/VanDalkvist/resources/blob/master/phonegap.md)
 
-* [**Gulp - modules**](https://github.com/VanDalkvist/resources/blob/master/gulp-plugins.md)
+* [Gulp - modules](https://github.com/VanDalkvist/resources/blob/master/gulp-plugins.md)
 
 * [**AngularJS**](https://github.com/VanDalkvist/resources/blob/master/angular.md)
 
-* [**Android**](https://github.com/VanDalkvist/resources/blob/master/android.md)
+* [Android](https://github.com/VanDalkvist/resources/blob/master/android.md)
 
 * [**3D**](https://github.com/VanDalkvist/resources/blob/master/3D.md)
 
