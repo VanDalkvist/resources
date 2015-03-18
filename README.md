@@ -30,7 +30,7 @@
 
 * [**Applications**](https://github.com/VanDalkvist/resources/blob/master/applications.md)
 
-* [**Hosting**](https://github.com/VanDalkvist/resources/blob/master/hosting.md)
+* [Hosting](https://github.com/VanDalkvist/resources/blob/master/hosting.md)
 
 # Quotations
 
