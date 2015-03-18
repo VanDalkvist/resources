@@ -24,7 +24,9 @@
 
 * [Android](https://github.com/VanDalkvist/resources/blob/master/android.md)
 
-* [**3D**](https://github.com/VanDalkvist/resources/blob/master/3D.md)
+* [**Hardware**](https://github.com/VanDalkvist/resources/blob/master/hardware.md)
+
+* [3D](https://github.com/VanDalkvist/resources/blob/master/3D.md)
 
 # Quotations
 
