@@ -16,3 +16,6 @@
 
 * [Generic HTTP Error Handling in AngularJS](http://www.codelord.net/2014/06/25/generic-error-handling-in-angularjs/)
 
+###Common
+
+* [Styleguide](https://github.com/johnpapa/angular-styleguide)
