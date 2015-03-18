@@ -12,6 +12,10 @@
 
 * [**Security**](https://github.com/VanDalkvist/resources/blob/master/security.md)
 
+* [Samples and Libraries Source](https://github.com/VanDalkvist/resources/blob/master/samples-and-libraries.md)
+
+* [Blogs](https://github.com/VanDalkvist/resources/blob/master/blogs.md)
+
 * [**Phonegap**](https://github.com/VanDalkvist/resources/blob/master/phonegap.md)
 
 * [**Gulp - modules**](https://github.com/VanDalkvist/resources/blob/master/gulp-plugins.md)
