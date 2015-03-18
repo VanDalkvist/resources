@@ -32,6 +32,8 @@
 
 * [Hosting](https://github.com/VanDalkvist/resources/blob/master/hosting.md)
 
+* [**Algorithms**](https://github.com/VanDalkvist/resources/blob/master/algorithms.md)
+
 # Quotations
 
 > What I cannot create, I do not understand.
