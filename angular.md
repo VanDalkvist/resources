@@ -14,3 +14,5 @@
 
 * [AngularJS Virtual Scrolling – part 1](http://blog.stackfull.com/2013/02/angularjs-virtual-scrolling-part-1/)
 
+* [Generic HTTP Error Handling in AngularJS](http://www.codelord.net/2014/06/25/generic-error-handling-in-angularjs/)
+
