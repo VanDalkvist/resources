@@ -36,11 +36,11 @@
 
 # Quotations
 
-> What I cannot create, I do not understand.
+   > What I cannot create, I do not understand.
 
    -- [*Richard P. Feynman*](http://en.wikipedia.org/wiki/Richard_Feynman)
 
-> Ah, whatever problem you have. If you have this problem, this solves it.
+   > Ah, whatever problem you have. If you have this problem, this solves it.
 
    -- [*Scott Hanselman (@shanselman)*](https://twitter.com/shanselman/status/461532471037677568)
 
@@ -49,5 +49,5 @@
 
 * [h5bp](https://h5bp.github.io/)
 
-* [Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* [Front-end Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
