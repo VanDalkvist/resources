@@ -6,3 +6,4 @@
   
 * [StackFull](http://blog.stackfull.com/)
 
+* [CODING HORROR](http://blog.codinghorror.com/)
