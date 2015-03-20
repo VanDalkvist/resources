@@ -7,3 +7,7 @@
 * [StackFull](http://blog.stackfull.com/)
 
 * [CODING HORROR](http://blog.codinghorror.com/)
+
+* [The Code Dump](http://www.codelord.net/) - A place a coder rants at...
+
+* [YearOfMoo](http://www.yearofmoo.com/)
