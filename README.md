@@ -34,6 +34,8 @@
 
 * [**Algorithms**](https://github.com/VanDalkvist/resources/blob/master/algorithms.md)
 
+* [SQL](https://github.com/VanDalkvist/resources/blob/master/sql.md)
+
 # Quotations
 
    > What I cannot create, I do not understand.
