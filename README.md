@@ -49,6 +49,8 @@
 
 #Main
 
+* [JavaScript-Garden](http://bonsaiden.github.io/JavaScript-Garden/ru/) -it is the Bible of JavaScript hacks.
+
 * [h5bp](https://h5bp.github.io/)
 
 * [Front-end Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
