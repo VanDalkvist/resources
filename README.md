@@ -61,6 +61,8 @@
 
 * [**Front-end Interview Questions**](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
+* [*JavaScript Quiz*](http://javascript-puzzlers.herokuapp.com/)
+
 #For usage
 
 * [A framework for easily creating beautiful **PRESENTATIONS** using HTML](https://github.com/hakimel/reveal.js)
@@ -70,4 +72,3 @@
 * [**CodeEval**](https://www.codeeval.com/)
 
 * [*CodeWars*](http://www.codewars.com/dashboard)
-
