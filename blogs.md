@@ -11,3 +11,6 @@
 * [The Code Dump](http://www.codelord.net/) - A place a coder rants at...
 
 * [YearOfMoo](http://www.yearofmoo.com/)
+
+* [Ariya Hidayat](http://ariya.ofilabs.com/) - don't code today what you can't debug tomorrow. (PhantomJS author)
+
