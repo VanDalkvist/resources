@@ -1,4 +1,4 @@
-# Resources and useful things 
+# Resources and useful things
 
 * [**Common**](https://github.com/VanDalkvist/resources/blob/master/common.md)
 
@@ -55,9 +55,14 @@
 
 #Main
 
-* [JavaScript-Garden](http://bonsaiden.github.io/JavaScript-Garden/ru/) - it is the Bible of JavaScript hacks.
+* [**JavaScript-Garden**](http://bonsaiden.github.io/JavaScript-Garden/ru/) - it is the Bible of JavaScript hacks.
 
-* [h5bp](https://h5bp.github.io/)
+* [*h5bp*](https://h5bp.github.io/)
 
-* [Front-end Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* [**Front-end Interview Questions**](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
+#Spare Time
+
+* [**CodeEval**](https://www.codeeval.com/)
+
+* [*CodeWars*](http://www.codewars.com/dashboard)
