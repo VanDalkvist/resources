@@ -16,7 +16,7 @@
 
 * [Blogs](https://github.com/VanDalkvist/resources/blob/master/blogs.md)
 
-* [**Phonegap**](https://github.com/VanDalkvist/resources/blob/master/phonegap.md)
+* [**Cordova**](https://github.com/VanDalkvist/resources/blob/master/cordova.md)
 
 * [Gulp - modules](https://github.com/VanDalkvist/resources/blob/master/gulp-plugins.md)
 
