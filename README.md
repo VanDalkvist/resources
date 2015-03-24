@@ -61,8 +61,13 @@
 
 * [**Front-end Interview Questions**](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
+#For usage
+
+* [A framework for easily creating beautiful **PRESENTATIONS** using HTML](https://github.com/hakimel/reveal.js)
+
 #Spare Time
 
 * [**CodeEval**](https://www.codeeval.com/)
 
 * [*CodeWars*](http://www.codewars.com/dashboard)
+
