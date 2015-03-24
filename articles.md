@@ -24,3 +24,6 @@
 
 * [AngularJS Virtual Scrolling – part 1](http://blog.stackfull.com/2013/02/angularjs-virtual-scrolling-part-1/)
 
+### Design
+
+* [**58 признаков хорошего интерфейса**](http://habrahabr.ru/post/247367/)
