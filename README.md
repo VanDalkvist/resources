@@ -38,6 +38,8 @@
 
 * [**HotKeys**](https://github.com/VanDalkvist/resources/blob/master/hotkeys.md)
 
+* [.NET](https://github.com/VanDalkvist/resources/blob/master/.net.md)
+
 # Quotations
 
    > What I cannot create, I do not understand.
