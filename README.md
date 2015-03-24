@@ -40,6 +40,8 @@
 
 * [.NET](https://github.com/VanDalkvist/resources/blob/master/.net.md)
 
+* [**Software**](https://github.com/VanDalkvist/resources/blob/master/software.md)
+
 # Quotations
 
    > What I cannot create, I do not understand.
