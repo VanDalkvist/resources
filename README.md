@@ -12,7 +12,7 @@
 
 * [Security](https://github.com/VanDalkvist/resources/blob/master/security.md)
 
-* [**Samples and Libraries Source**](https://github.com/VanDalkvist/resources/blob/master/samples-and-libraries.md)
+* [**Samples and Libraries Source**](https://github.com/VanDalkvist/resources/blob/master/samples.md)
 
 * [Blogs](https://github.com/VanDalkvist/resources/blob/master/blogs.md)
 
