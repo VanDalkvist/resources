@@ -2,6 +2,8 @@
 Android
 =======
 
+[**Hot Keys**](https://github.com/VanDalkvist/resources/blob/master/hotkeys.md)
+
 ###Common
 
 

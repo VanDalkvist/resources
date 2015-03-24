@@ -36,6 +36,8 @@
 
 * [SQL](https://github.com/VanDalkvist/resources/blob/master/sql.md)
 
+* [**HotKeys**](https://github.com/VanDalkvist/resources/blob/master/hotkeys.md)
+
 # Quotations
 
    > What I cannot create, I do not understand.
