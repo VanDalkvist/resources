@@ -1,28 +1,30 @@
 #Articles
 
-* [Мозг](http://habrahabr.ru/post/250625/)
+* [*Мозг*](http://habrahabr.ru/post/250625/)
 
-* [Pичард Фейнман - ХАРАКТЕР ФИЗИЧЕСКИХ ЗАКОНОВ](http://fizmat.by/documents/Fejnman_1.pdf) - Пример физического закона - закон тяготения
+* [**Pичард Фейнман - ХАРАКТЕР ФИЗИЧЕСКИХ ЗАКОНОВ**](http://fizmat.by/documents/Fejnman_1.pdf) - Пример физического закона - закон тяготения
 
-* [Законы движения планет](http://fizmat.by/astronomija/dvizhenie_planet)
+* [*Законы движения планет*](http://fizmat.by/astronomija/dvizhenie_planet)
 
-* [Doppler](https://github.com/DanielRapp/doppler) - very interesting implementation of using Doppler effect to Sense Gestures
+* [**Doppler**](https://github.com/DanielRapp/doppler) - very interesting implementation of using Doppler effect to Sense Gestures
 
-* [Javascript Class pattern](http://arjanvandergaag.nl/blog/javascript-class-pattern.html)
+* [*Javascript Class pattern*](http://arjanvandergaag.nl/blog/javascript-class-pattern.html)
 
-* [Матрица компетентности программиста](http://grompe.org.ru/static/prog_comp_matrix_ru.html)
+* [**Матрица компетентности программиста**](http://grompe.org.ru/static/prog_comp_matrix_ru.html)
 
-* [Основы статистики: просто о сложных формулах](http://habrahabr.ru/post/250527/)
+* [*Основы статистики: просто о сложных формулах*](http://habrahabr.ru/post/250527/)
 
-* [OpenStack, Docker и веб-терминал, или как мы делаем интерактивные упражнения для обучения Linux](http://habrahabr.ru/company/stepic/blog/246099/)
+* [**OpenStack, Docker и веб-терминал, или как мы делаем интерактивные упражнения для обучения Linux**](http://habrahabr.ru/company/stepic/blog/246099/)
 
-* [Задача о 64 монетах, двух заключённых и одной шахматной доске](http://habrahabr.ru/post/250585/)
+* [*Задача о 64 монетах, двух заключённых и одной шахматной доске*](http://habrahabr.ru/post/250585/)
 
-* [Сделай свой AngularJS: Часть 1 — Scope и Digest](http://habrahabr.ru/post/201832/)
+* [**Сделай свой AngularJS: Часть 1 — Scope и Digest**](http://habrahabr.ru/post/201832/)
 
-* [AngularJS Performance Tuning for Long Lists](http://tech.small-improvements.com/2013/09/10/angularjs-performance-with-large-lists/)
+* [*AngularJS Performance Tuning for Long Lists*](http://tech.small-improvements.com/2013/09/10/angularjs-performance-with-large-lists/)
 
-* [AngularJS Virtual Scrolling – part 1](http://blog.stackfull.com/2013/02/angularjs-virtual-scrolling-part-1/)
+* [**AngularJS Virtual Scrolling – part 1**](http://blog.stackfull.com/2013/02/angularjs-virtual-scrolling-part-1/)
+
+* [*JavaScript Kinetic Scrolling: Part 1*](http://ariya.ofilabs.com/2013/08/javascript-kinetic-scrolling-part-1.html)
 
 ### Design
 
