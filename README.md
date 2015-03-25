@@ -18,7 +18,7 @@
 
 * [**Cordova**](https://github.com/VanDalkvist/resources/blob/master/cordova.md)
 
-* [Gulp - modules](https://github.com/VanDalkvist/resources/blob/master/gulp-plugins.md)
+* [Gulp modules](https://github.com/VanDalkvist/resources/blob/master/gulp.md)
 
 * [**AngularJS**](https://github.com/VanDalkvist/resources/blob/master/angular.md)
 
