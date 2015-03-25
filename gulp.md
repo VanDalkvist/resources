@@ -1,7 +1,9 @@
 Gulp-plugins
 ============
 
-#[**Recipes**](https://github.com/gulpjs/gulp/tree/master/docs/recipes)
+##[**Recipes**](https://github.com/gulpjs/gulp/tree/master/docs/recipes)
+
+##[**Plugins Search**](http://gulpjs.com/plugins/)
 
 ##Common
 
