@@ -74,3 +74,5 @@
 * [**CodeEval**](https://www.codeeval.com/)
 
 * [*CodeWars*](http://www.codewars.com/dashboard)
+
+* [**Комментарии к «Интерстеллар» – кто такие высшие существа?**](http://geektimes.ru/post/247728/)
