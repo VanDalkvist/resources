@@ -8,6 +8,9 @@
 
 * [CODING HORROR](http://blog.codinghorror.com/)
 
+* [**The Jackal of Javascript**](http://thejackalofjavascript.com/)
+    > Knowing is different & Doing is different
+
 * [The Code Dump](http://www.codelord.net/) - A place a coder rants at...
 
 * [YearOfMoo](http://www.yearofmoo.com/)
