@@ -69,6 +69,8 @@
 
 * [**Gulp plugins Search**](http://gulpjs.com/plugins/)
 
+* [Code search](https://searchcode.com/)
+
 #Spare Time
 
 * [**CodeEval**](https://www.codeeval.com/)
