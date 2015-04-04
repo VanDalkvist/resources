@@ -63,6 +63,8 @@
 
 * [*JavaScript Quiz*](http://javascript-puzzlers.herokuapp.com/)
 
+* [**Шпаргалка для кандидата: какие вопросы задать потенциальному работодателю на собеседовании**](http://megamozg.ru/post/13704/)
+
 #For usage
 
 * [A framework for easily creating beautiful **PRESENTATIONS** using HTML](https://github.com/hakimel/reveal.js)
