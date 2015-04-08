@@ -71,6 +71,10 @@
 
 * [**Gulp plugins Search**](http://gulpjs.com/plugins/)
 
+#To learn
+
+* [Learn X in Y minutes](http://learnxinyminutes.com/) - Take a whirlwind tour of your next favorite language. Community-driven!
+
 #Spare Time
 
 * [**CodeEval**](https://www.codeeval.com/)
