@@ -17,3 +17,6 @@
 
 * [Ariya Hidayat](http://ariya.ofilabs.com/) - don't code today what you can't debug tomorrow. (PhantomJS author)
 
+* [**Html5 Rocks**](http://www.html5rocks.com/en/)
+
+* [StrathWeb](http://www.strathweb.com/) - A free flowing web tech monologue. .NET/ASP.NET blog
