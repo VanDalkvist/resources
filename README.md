@@ -63,6 +63,8 @@
 
 * [*JavaScript Quiz*](http://javascript-puzzlers.herokuapp.com/)
 
+* [**Лицензия для вашего open-source проекта**](http://habrahabr.ru/post/243091/)
+
 #For usage
 
 * [A framework for easily creating beautiful **PRESENTATIONS** using HTML](https://github.com/hakimel/reveal.js)
