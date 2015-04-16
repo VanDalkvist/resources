@@ -4,8 +4,11 @@ Android
 
 [**Hot Keys**](https://github.com/VanDalkvist/resources/blob/master/hotkeys.md)
 
-###Common
+###Issues
 
+[Phonegap android app ajax requests to https fail with status 0](http://stackoverflow.com/questions/20036260/phonegap-android-app-ajax-requests-to-https-fail-with-status-0) - https and ssl issues solution
+
+###Common
 
 * [**Arsenal**](https://android-arsenal.com/) - A categorized directory of free libraries and tools for Android [[github]](https://github.com/vbauer/android-arsenal.com)
 
