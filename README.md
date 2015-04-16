@@ -100,3 +100,5 @@
 #Thoughts
 
 - A device which shows new words every day.
+
+- App based on sockets that manages PC application
