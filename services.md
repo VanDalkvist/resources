@@ -11,6 +11,11 @@
 
 * [Log.io](http://logio.org/) - Real-time log monitoring in your browser
 
+* [MakeUp](http://2gis.github.io/makeup/) - »нструмент дл€ при€тного контрол€ за качеством вЄрстки на веб-проектах
+    > ¬ы поладите с Makeup,
+      если ваша вЄрстка основана на независимых блоках,
+      а вам небезразлична стабильность и надежность проекта
+
 #Dictionaries API
 
 ###Main
