@@ -69,6 +69,8 @@
 
 #For usage
 
+* [**DevDocs**](http://devdocs.io/)
+
 * [A framework for easily creating beautiful **PRESENTATIONS** using HTML](https://github.com/hakimel/reveal.js)
 
 * [**Gulp plugins Search**](http://gulpjs.com/plugins/)
