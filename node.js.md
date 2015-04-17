@@ -6,6 +6,8 @@
 
 * [nodesource](https://nodesource.com) - Insight and control for your Node projects.
 
+* [StrongLoop](https://strongloop.com/node-js/videos/#a-video-intro-to-how-node-works) - Node.js main video trainings 
+
 ###Security
 
 * [*Nodejs Security*](http://www.slideshare.net/d0cent/nodejs-security)
