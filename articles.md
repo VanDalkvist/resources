@@ -29,6 +29,9 @@
 * [**Make a Splash With Dynamic 2D Water Effects**](http://gamedevelopment.tutsplus.com/tutorials/make-a-splash-with-2d-water-effects--gamedev-236)
     > Sploosh! In this tutorial, I'll show you how you can use simple math, physics, and particle effects to simulate great looking 2D water waves and droplets.
 
+
+* [*Человек, который создал «Тетрис»*](http://habrahabr.ru/post/247589/)
+
 ### Design
 
 * [**58 признаков хорошего интерфейса**](http://habrahabr.ru/post/247367/)
