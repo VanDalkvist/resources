@@ -75,6 +75,8 @@
 
 * [Code search](https://searchcode.com/)
 
+* [**Ghost**](https://github.com/TryGhost/Ghost) - Ghost is a simple, powerful publishing platform that allows you to share your stories with the world.
+
 #To learn
 
 * [Learn X in Y minutes](http://learnxinyminutes.com/) - Take a whirlwind tour of your next favorite language. Community-driven!
