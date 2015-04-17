@@ -101,6 +101,8 @@
 
 [CodePen Ionic](http://codepen.io/ionic/popular/3/)
 
+[Using Local Notifications In Your Ionic Framework App](http://devdactic.com/local-notifications-ionic/)
+
 #Inspiration
 
 [*Astronomy Picture of the Day Archive*](http://apod.nasa.gov/apod/archivepix.html)
