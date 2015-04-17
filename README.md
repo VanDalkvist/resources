@@ -77,7 +77,9 @@
 
 * [Code search](https://searchcode.com/)
 
-* [**Ghost**](https://github.com/TryGhost/Ghost) - Ghost is a simple, powerful publishing platform that allows you to share your stories with the world.
+* [**Browser Sync**](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites [BrowserSync.io](http://browsersync.io)
+
+* [Ghost](https://github.com/TryGhost/Ghost) - Ghost is a simple, powerful publishing platform that allows you to share your stories with the world.
 
 #To learn
 
