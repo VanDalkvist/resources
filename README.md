@@ -69,6 +69,8 @@
 
 #For usage
 
+* [*Hub*](https://github.com/github/hub) - git + hub = github
+
 * [**DevDocs**](http://devdocs.io/)
 
 * [A framework for easily creating beautiful **PRESENTATIONS** using HTML](https://github.com/hakimel/reveal.js)

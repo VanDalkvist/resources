@@ -4,6 +4,10 @@
 
 [Useful node.js tools tutorials and resources](http://www.smashingmagazine.com/2011/09/16/useful-node-js-tools-tutorials-and-resources/)
 
+[90 node modules](http://www.catonmat.net/blog/browserling-open-sources-90-node-modules/)
+
+[NodeHead](http://nodehead.com/)
+
 ###Learning
 
 * [nodeschool](http://nodeschool.io/) - Open source workshops that teach web software skills. Do them on your own or at a workshop nearby.
