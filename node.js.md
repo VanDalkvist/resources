@@ -1,5 +1,9 @@
 #Node.Js
 
+###Common
+
+[Useful node.js tools tutorials and resources](http://www.smashingmagazine.com/2011/09/16/useful-node-js-tools-tutorials-and-resources/)
+
 ###Learning
 
 * [nodeschool](http://nodeschool.io/) - Open source workshops that teach web software skills. Do them on your own or at a workshop nearby.

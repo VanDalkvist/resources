@@ -97,11 +97,17 @@
 
 * [**О размере экрана, пикселя и элемента**](http://habrahabr.ru/post/229359/)
 
+* [Startup Ideas](http://syskall.com/crazy-and-not-so-crazy-startup-ideas-2015-edition/) - http://syskall.com/crazy-and-not-so-crazy-startup-ideas-2015-edition/
+
+* [Startup ideas](http://syskall.com/some-crazy-and-not-so-crazy-startup-and-proje/) - 17 crazy and not so crazy startup and project ideas
+
 #Current
 
 [CodePen Ionic](http://codepen.io/ionic/popular/3/)
 
 [Using Local Notifications In Your Ionic Framework App](http://devdactic.com/local-notifications-ionic/)
+
+[Useful node.js tools tutorials and resources](http://www.smashingmagazine.com/2011/09/16/useful-node-js-tools-tutorials-and-resources/)
 
 #Inspiration
 
