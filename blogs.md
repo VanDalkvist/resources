@@ -20,3 +20,6 @@
 * [**Html5 Rocks**](http://www.html5rocks.com/en/)
 
 * [StrathWeb](http://www.strathweb.com/) - A free flowing web tech monologue. .NET/ASP.NET blog
+
+* [**Блог им. Catethysis**](http://catethysis.ru/contents/)
+    > Linux, Nginx, Node.js, Электроника, Javascript, CUDA, Микроконтроллеры - STM32, Квадрокоптер
