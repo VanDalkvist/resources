@@ -42,6 +42,8 @@
 
 * [**Software**](https://github.com/VanDalkvist/resources/blob/master/software.md)
 
+* [Diving](https://github.com/VanDalkvist/resources/blob/master/diving.md) - Different articles to understand "How does it work?".
+
 # Quotations
 
    > What I cannot create, I do not understand.
@@ -102,6 +104,8 @@
 * [Startup Ideas](http://syskall.com/crazy-and-not-so-crazy-startup-ideas-2015-edition/) - http://syskall.com/crazy-and-not-so-crazy-startup-ideas-2015-edition/
 
 * [Startup ideas](http://syskall.com/some-crazy-and-not-so-crazy-startup-and-proje/) - 17 crazy and not so crazy startup and project ideas
+
+* [Performance Tips for JavaScript in V8](http://www.html5rocks.com/en/tutorials/speed/v8/) - How JavaScript works
 
 #Current
 
