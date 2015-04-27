@@ -18,20 +18,20 @@
 
 * [SpringLoops](http://www.springloops.io/) - Springloops is everything you need for web development and lightning-quick deployments.
 
+* [PageSpeed Tools](https://developers.google.com/speed/pagespeed/) - Analyze and optimize your website with PageSpeed tools to implement the web performance best practices.
+
 #API
+
+###Main
 
 * [Build beautiful APIs](https://apiary.io/)
     > Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
     
-##Dictionaries API
-
-###Main
-
 * [**Search API**](http://www.programmableweb.com/)
 
 * [**Mashape**](https://www.mashape.com) - Manager of APIs
 
-###List
+###Dictionaries API
 
 * [WordsAPI](https://www.mashape.com/wordsapi/wordsapi)
 
