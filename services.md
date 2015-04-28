@@ -20,6 +20,9 @@
 
 * [PageSpeed Tools](https://developers.google.com/speed/pagespeed/) - Analyze and optimize your website with PageSpeed tools to implement the web performance best practices.
 
+* [Zapier](https://zapier.com/) - Zapier connects the web apps you use to easily move your data and automate tedious tasks.
+    > Your time is invaluable. Invest in yourself.
+    
 #API
 
 ###Main
