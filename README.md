@@ -105,8 +105,6 @@
 
 * [Startup ideas](http://syskall.com/some-crazy-and-not-so-crazy-startup-and-proje/) - 17 crazy and not so crazy startup and project ideas
 
-* [Performance Tips for JavaScript in V8](http://www.html5rocks.com/en/tutorials/speed/v8/) - How JavaScript works
-
 #Current
 
 [CodePen Ionic](http://codepen.io/ionic/popular/3/)
