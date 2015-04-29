@@ -71,6 +71,8 @@
 
 #For usage
 
+* [**Choose a license**](http://choosealicense.com/)
+
 * [*Hub*](https://github.com/github/hub) - git + hub = github
 
 * [**DevDocs**](http://devdocs.io/)
