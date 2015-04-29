@@ -9,7 +9,13 @@
 [Node-RED](http://nodered.org/) - A visual tool for wiring the Internet of Things
 
     > Node-RED is a tool for wiring together hardware devices, APIs and online services in new and interesting ways.
-    
+
+###Devices
+
+[Tessel 2](https://tessel.io/) - Tessel 2 is a development platform you can embed in a product. 
+
+    > Build fast with Node.js/io.js, then optimize the hardware and build thousands.
+
 ###Arduino
 
 * [Embedding Angular in the physical world](http://www.ng-newsletter.com/posts/embedded-angular.html)
