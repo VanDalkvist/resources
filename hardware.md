@@ -1,5 +1,15 @@
 #Hardware
 
+###Frameworks
+
+[Cylon](https://github.com/hybridgroup/cylon/) - JavaScript Robotics, By Your Command.
+
+    > Next generation robotics framework with support for 35 different platforms
+
+[Node-RED](http://nodered.org/) - A visual tool for wiring the Internet of Things
+
+    > Node-RED is a tool for wiring together hardware devices, APIs and online services in new and interesting ways.
+    
 ###Arduino
 
 * [Embedding Angular in the physical world](http://www.ng-newsletter.com/posts/embedded-angular.html)
