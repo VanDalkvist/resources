@@ -16,6 +16,10 @@
 
     > Build fast with Node.js/io.js, then optimize the hardware and build thousands.
 
+###Examples
+
+[Intel® XDK IoT Edition local temperature nodejs and html5 sample](https://software.intel.com/en-us/xdk/docs/iot-local-temperature-nodejs-and-html5-samples)
+
 ###Arduino
 
 * [Embedding Angular in the physical world](http://www.ng-newsletter.com/posts/embedded-angular.html)
