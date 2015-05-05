@@ -111,8 +111,6 @@
 
 [CodePen Ionic](http://codepen.io/ionic/popular/3/)
 
-[Using Local Notifications In Your Ionic Framework App](http://devdactic.com/local-notifications-ionic/)
-
 [Useful node.js tools tutorials and resources](http://www.smashingmagazine.com/2011/09/16/useful-node-js-tools-tutorials-and-resources/)
 
 #Inspiration
