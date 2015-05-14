@@ -1,7 +1,10 @@
 #Services
 
 * [ngrok](https://ngrok.com/) - Introspected tunnels to localhost
-> I want to securely expose a local web server to the internet and capture all traffic for detailed inspection and replay.
+    > I want to securely expose a local web server to the internet and capture all traffic for detailed inspection and replay.
+
+* [Forward](https://forwardhq.com/) - Link to localhost
+    > Get a shareable URL for your local dev site with one click
 
 * [auth0](https://auth0.com) - Many auth services to work with many social accounts.
 
@@ -23,6 +26,10 @@
 * [Zapier](https://zapier.com/) - Zapier connects the web apps you use to easily move your data and automate tedious tasks.
     > Your time is invaluable. Invest in yourself.
     
+###App builders
+
+[Parse](https://www.parse.com/)
+
 #API
 
 ###Main
