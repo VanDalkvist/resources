@@ -28,7 +28,7 @@
 
 * [3D](https://github.com/VanDalkvist/resources/blob/master/3D.md)
 
-* [**Applications**](https://github.com/VanDalkvist/resources/blob/master/applications.md)
+* [**Software**](https://github.com/VanDalkvist/resources/blob/master/software.md)
 
 * [Hosting](https://github.com/VanDalkvist/resources/blob/master/hosting.md)
 
@@ -40,11 +40,9 @@
 
 * [.NET](https://github.com/VanDalkvist/resources/blob/master/.net.md)
 
-* [**Software**](https://github.com/VanDalkvist/resources/blob/master/software.md)
+* [**Languages**](https://github.com/VanDalkvist/resources/blob/master/languages.md)
 
 * [Diving](https://github.com/VanDalkvist/resources/blob/master/diving.md) - Different articles to understand "How does it work?".
-
-* [**Languages**](https://github.com/VanDalkvist/resources/blob/master/languages.md)
 
 # Quotations
 
