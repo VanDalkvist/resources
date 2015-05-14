@@ -125,7 +125,6 @@
 
 TO WRITING: [Wording Lab](https://www.wordinglab.com/) 
 
-
 - A device which shows new words every day.
 
 - App based on sockets that manages PC application
