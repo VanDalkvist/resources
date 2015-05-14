@@ -1,5 +1,11 @@
 #Hardware
 
+###IoT
+
+- [The Internet of your things from Microsoft](https://dev.windows.com/en-us/iot)
+
+- [IoT Design Shop](http://iotdesignshop.com/?gclid=CK_tqsvmqsUCFQLncgodt3oAqA)
+
 ###Frameworks
 
 [Cylon](https://github.com/hybridgroup/cylon/) - JavaScript Robotics, By Your Command.
