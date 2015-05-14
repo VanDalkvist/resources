@@ -26,6 +26,9 @@
 * [Zapier](https://zapier.com/) - Zapier connects the web apps you use to easily move your data and automate tedious tasks.
     > Your time is invaluable. Invest in yourself.
     
+* [Responsinator](http://www.responsinator.com/)
+    > Responsinator helps website makers quickly get an indication of how their responsive site will look on the most popular devices.
+    
 ###App builders
 
 [Parse](https://www.parse.com/)
