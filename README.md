@@ -54,7 +54,6 @@
 
    -- [*Scott Hanselman (@shanselman)*](https://twitter.com/shanselman/status/461532471037677568)
 
-
 #Main
 
 * [**JavaScript-Garden**](http://bonsaiden.github.io/JavaScript-Garden/ru/) - it is the Bible of JavaScript hacks.
