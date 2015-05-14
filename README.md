@@ -44,6 +44,8 @@
 
 * [Diving](https://github.com/VanDalkvist/resources/blob/master/diving.md) - Different articles to understand "How does it work?".
 
+* [**Languages**](https://github.com/VanDalkvist/resources/blob/master/languages.md)
+
 # Quotations
 
    > What I cannot create, I do not understand.
