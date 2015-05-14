@@ -113,6 +113,8 @@
 
 [Useful node.js tools tutorials and resources](http://www.smashingmagazine.com/2011/09/16/useful-node-js-tools-tutorials-and-resources/)
 
+[Skyforge: технологии рендеринга](http://habrahabr.ru/company/mailru/blog/248873/)
+
 #Inspiration
 
 [*Astronomy Picture of the Day Archive*](http://apod.nasa.gov/apod/archivepix.html)
