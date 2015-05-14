@@ -68,3 +68,5 @@ Service for [Dict.org](http://www.dict.org/bin/Dict).
 * [Word Graph Dictionary](https://www.mashape.com/twinword/word-graph-dictionary-1) - association, difficulty, exam history, example, references, theme
 
     > http://twinword.com/?view=full
+    
+* [TwinWord](https://www.twinword.com/developer-api.php) - text analysis API resource.
