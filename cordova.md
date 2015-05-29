@@ -5,3 +5,5 @@
 * [Using CORS](http://www.html5rocks.com/en/tutorials/cors/)
 
 * [Ionic Cool Animation example](http://codepen.io/ionic/pen/nxEdH?editors=101)
+
+* [Three hooks your cordova/phonegap project needs](http://devgirl.org/2013/11/12/three-hooks-your-cordovaphonegap-project-needs/)
