@@ -70,6 +70,8 @@
 
 #For usage
 
+* [*Wording Lab*](https://www.wordinglab.com/) -  resource by [twinword](https://www.twinword.com/), that one is best resource to work with text, words, synonyms and statistics
+
 * [**Choose a license**](http://choosealicense.com/)
 
 * [*Hub*](https://github.com/github/hub) - git + hub = github
