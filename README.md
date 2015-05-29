@@ -54,12 +54,13 @@
 
    -- [*Scott Hanselman (@shanselman)*](https://twitter.com/shanselman/status/461532471037677568)
 
-#Main
+#For usage
 
 * [**JavaScript-Garden**](http://bonsaiden.github.io/JavaScript-Garden/ru/) - it is the Bible of JavaScript hacks.
 
-* [*h5bp*](https://h5bp.github.io/)
-
+* [*h5bp*](https://h5bp.github.io/) - A bunch of people creating open source software. Fork a project and get involved!
+> Example: 'server-configs-apache', 'server-configs-nginx', 'server-configs-iis'...
+   
 * [**Front-end Interview Questions**](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
 * [*JavaScript Quiz*](http://javascript-puzzlers.herokuapp.com/)
@@ -68,7 +69,9 @@
 
 * [**Лицензия для вашего open-source проекта**](http://habrahabr.ru/post/243091/)
 
-#For usage
+
+
+* [**BuiltWith**](http://builtwith.com/)
 
 * [*Wording Lab*](https://www.wordinglab.com/) -  resource by [twinword](https://www.twinword.com/), that one is best resource to work with text, words, synonyms and statistics
 
