@@ -56,6 +56,8 @@
 
 #For usage
 
+* [Awesome Nodejs](https://github.com/sindresorhus/awesome-nodejs)
+
 * [**JavaScript-Garden**](http://bonsaiden.github.io/JavaScript-Garden/ru/) - it is the Bible of JavaScript hacks.
 
 * [*h5bp*](https://h5bp.github.io/) - A bunch of people creating open source software. Fork a project and get involved!
