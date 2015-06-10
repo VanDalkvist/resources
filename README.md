@@ -54,9 +54,13 @@
 
    -- [*Scott Hanselman (@shanselman)*](https://twitter.com/shanselman/status/461532471037677568)
 
-#For usage
+#Awesome Lists
 
-* [Awesome Nodejs](https://github.com/sindresorhus/awesome-nodejs)
+* [**Awesome list of awesome lists**](https://github.com/sindresorhus/awesome)
+
+* [**Awesome Nodejs**](https://github.com/sindresorhus/awesome-nodejs)
+
+#For usage
 
 * [**JavaScript-Garden**](http://bonsaiden.github.io/JavaScript-Garden/ru/) - it is the Bible of JavaScript hacks.
 
