@@ -41,6 +41,8 @@
     > Design and simulate circuit boards with our breadboard, schematic and PCB editor. 
       Share your designs and collaborate as a team.
 
+* [arduinode(github)](https://github.com/ritz078/arduinode) - A project using arduino and node to transfer data on the browser and then control the arduino.
+
 ###Филимонов - Arduino and other microcontrollers experiments.
 
 * [**Погодная станция с Ethernet и планшетом в качестве устройства отображения**](http://habrahabr.ru/post/213405/)
