@@ -117,6 +117,9 @@
 
 * [Startup ideas](http://syskall.com/some-crazy-and-not-so-crazy-startup-and-proje/) - 17 crazy and not so crazy startup and project ideas
 
+* [Bookmate - Рекомендации профессионалов](https://bookmate.com/bookshelves/L4KWMWsR)
+> Здесь собраны книги, рекомендованные читателям "Мегамозга" в рамках рубрики "Как работают профессионалы". Не только бизнес, но и художественная литература – все то, что читают и рекомендуют к прочтению наши герои.
+
 #Current
 
 [CodePen Ionic](http://codepen.io/ionic/popular/3/)
