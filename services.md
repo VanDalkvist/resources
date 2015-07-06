@@ -29,6 +29,8 @@
 * [Responsinator](http://www.responsinator.com/)
     > Responsinator helps website makers quickly get an indication of how their responsive site will look on the most popular devices.
     
+* [Yandex Manul](http://yandex.ru/promo/manul#about) - Manul — бесплатный антивирус для вашего сайта
+    
 ###App builders
 
 [Parse](https://www.parse.com/)
