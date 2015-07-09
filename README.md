@@ -44,6 +44,8 @@
 
 * [Diving](https://github.com/VanDalkvist/resources/blob/master/diving.md) - Different articles to understand "How does it work?".
 
+* [**Shopping**](https://github.com/VanDalkvist/resources/blob/master/shopping.md)
+
 # Quotations
 
    > What I cannot create, I do not understand.
