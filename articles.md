@@ -37,3 +37,9 @@
 * [**58 признаков хорошего интерфейса**](http://habrahabr.ru/post/247367/)
 
 * [*Css Architecture*](http://philipwalton.com/articles/css-architecture/)
+
+###Backgammon
+
+* [Experiences in Evaluation with BKG - A Program that plays Backgammon ](http://ijcai.org/Past%20Proceedings/IJCAI-77-VOL1/PDF/074.pdf)
+
+* [AI Topics - Backgammon](http://aitopics.org/topic/backgammon)
