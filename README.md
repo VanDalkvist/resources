@@ -130,6 +130,8 @@
 
 #Inspiration
 
+[Great lion on THREE and WebGL](http://codepen.io/Yakudoo/pen/YXxmYR)
+
 [*Astronomy Picture of the Day Archive*](http://apod.nasa.gov/apod/archivepix.html)
 
 ![Atlas V Launches MMS](http://apod.nasa.gov/apod/image/1503/MMSLaunch_cooper_1050.jpg)
