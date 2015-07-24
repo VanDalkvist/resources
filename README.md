@@ -1,50 +1,13 @@
-# Resources and useful things
+# Resources, useful and for soul
 
-1. [**Common**](https://github.com/VanDalkvist/resources/blob/master/common.md)
 
-2. [Services](https://github.com/VanDalkvist/resources/blob/master/services.md)
+##Inspiration
 
-* [**Articles**](https://github.com/VanDalkvist/resources/blob/master/articles.md)
+[Great lion on THREE and WebGL](http://codepen.io/Yakudoo/pen/YXxmYR)
 
-* [Web-libraries](https://github.com/VanDalkvist/resources/blob/master/web-libraries.md)
+[*Astronomy Picture of the Day Archive*](http://apod.nasa.gov/apod/archivepix.html)
 
-* [**Node.js**](https://github.com/VanDalkvist/resources/blob/master/node.js.md)
-
-* [Security](https://github.com/VanDalkvist/resources/blob/master/security.md)
-
-* [**Samples and Libraries Source**](https://github.com/VanDalkvist/resources/blob/master/samples.md)
-
-* [Blogs](https://github.com/VanDalkvist/resources/blob/master/blogs.md)
-
-* [**Cordova**](https://github.com/VanDalkvist/resources/blob/master/cordova.md)
-
-* [Gulp modules](https://github.com/VanDalkvist/resources/blob/master/gulp.md)
-
-* [**AngularJS**](https://github.com/VanDalkvist/resources/blob/master/angular.md)
-
-* [Android](https://github.com/VanDalkvist/resources/blob/master/android.md)
-
-* [**Hardware**](https://github.com/VanDalkvist/resources/blob/master/hardware.md)
-
-* [3D](https://github.com/VanDalkvist/resources/blob/master/3D.md)
-
-* [**Software**](https://github.com/VanDalkvist/resources/blob/master/software.md)
-
-* [Hosting](https://github.com/VanDalkvist/resources/blob/master/hosting.md)
-
-* [**Algorithms**](https://github.com/VanDalkvist/resources/blob/master/algorithms.md)
-
-* [SQL](https://github.com/VanDalkvist/resources/blob/master/sql.md)
-
-* [**HotKeys**](https://github.com/VanDalkvist/resources/blob/master/hotkeys.md)
-
-* [.NET](https://github.com/VanDalkvist/resources/blob/master/.net.md)
-
-* [**Languages**](https://github.com/VanDalkvist/resources/blob/master/languages.md)
-
-* [Diving](https://github.com/VanDalkvist/resources/blob/master/diving.md) - Different articles to understand "How does it work?".
-
-* [**Shopping**](https://github.com/VanDalkvist/resources/blob/master/shopping.md)
+![Atlas V Launches MMS](http://apod.nasa.gov/apod/image/1503/MMSLaunch_cooper_1050.jpg)
 
 # Quotations
 
@@ -132,14 +95,6 @@
 
 [Cross browser to detect tab or window is active so animations stay in sync using HTML5 Visibility API](http://greensock.com/forums/topic/9059-cross-browser-to-detect-tab-or-window-is-active-so-animations-stay-in-sync-using-html5-visibility-api/)
 
-#Inspiration
-
-[Great lion on THREE and WebGL](http://codepen.io/Yakudoo/pen/YXxmYR)
-
-[*Astronomy Picture of the Day Archive*](http://apod.nasa.gov/apod/archivepix.html)
-
-![Atlas V Launches MMS](http://apod.nasa.gov/apod/image/1503/MMSLaunch_cooper_1050.jpg)
-
 #Thoughts
 
 TO WRITING: [Wording Lab](https://www.wordinglab.com/) 
@@ -151,3 +106,52 @@ TO WRITING: [Wording Lab](https://www.wordinglab.com/)
 - [Desk Concept](https://www.behance.net/gallery/11592197/Desk-concept)
 
 - Extension to grab link of page with header in the markdown (many possible variants).
+
+
+##Content
+
+1. [**Common**](https://github.com/VanDalkvist/resources/blob/master/common.md)
+
+2. [Services](https://github.com/VanDalkvist/resources/blob/master/services.md)
+
+* [**Articles**](https://github.com/VanDalkvist/resources/blob/master/articles.md)
+
+* [Web-libraries](https://github.com/VanDalkvist/resources/blob/master/web-libraries.md)
+
+* [**Node.js**](https://github.com/VanDalkvist/resources/blob/master/node.js.md)
+
+* [Security](https://github.com/VanDalkvist/resources/blob/master/security.md)
+
+* [**Samples and Libraries Source**](https://github.com/VanDalkvist/resources/blob/master/samples.md)
+
+* [Blogs](https://github.com/VanDalkvist/resources/blob/master/blogs.md)
+
+* [**Cordova**](https://github.com/VanDalkvist/resources/blob/master/cordova.md)
+
+* [Gulp modules](https://github.com/VanDalkvist/resources/blob/master/gulp.md)
+
+* [**AngularJS**](https://github.com/VanDalkvist/resources/blob/master/angular.md)
+
+* [Android](https://github.com/VanDalkvist/resources/blob/master/android.md)
+
+* [**Hardware**](https://github.com/VanDalkvist/resources/blob/master/hardware.md)
+
+* [3D](https://github.com/VanDalkvist/resources/blob/master/3D.md)
+
+* [**Software**](https://github.com/VanDalkvist/resources/blob/master/software.md)
+
+* [Hosting](https://github.com/VanDalkvist/resources/blob/master/hosting.md)
+
+* [**Algorithms**](https://github.com/VanDalkvist/resources/blob/master/algorithms.md)
+
+* [SQL](https://github.com/VanDalkvist/resources/blob/master/sql.md)
+
+* [**HotKeys**](https://github.com/VanDalkvist/resources/blob/master/hotkeys.md)
+
+* [.NET](https://github.com/VanDalkvist/resources/blob/master/.net.md)
+
+* [**Languages**](https://github.com/VanDalkvist/resources/blob/master/languages.md)
+
+* [Diving](https://github.com/VanDalkvist/resources/blob/master/diving.md) - Different articles to understand "How does it work?".
+
+* [**Shopping**](https://github.com/VanDalkvist/resources/blob/master/shopping.md)
