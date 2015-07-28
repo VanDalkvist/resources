@@ -97,7 +97,11 @@
 
 #Thoughts
 
-TO WRITING: [Wording Lab](https://www.wordinglab.com/) 
+TO WRITING: 
+
+[Wording Lab](https://www.wordinglab.com/) ,
+
+[Главред](http://glvrd.ru/) - Помогает очистить текст от словесного мусора, проверяет на соответствие информационному стилю.
 
 - A device which shows new words every day.
 
