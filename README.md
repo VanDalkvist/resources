@@ -87,6 +87,8 @@
 
 #Current
 
+[Программисты и депрессия](http://habrahabr.ru/post/260249/)
+
 [CodePen Ionic](http://codepen.io/ionic/popular/3/)
 
 [Useful node.js tools tutorials and resources](http://www.smashingmagazine.com/2011/09/16/useful-node-js-tools-tutorials-and-resources/)
