@@ -113,6 +113,7 @@ TO WRITING:
 
 - Extension to grab link of page with header in the markdown (many possible variants).
 
+- [Открытка-лабиринт. Подарок, который невозможно открыть, не разгадав головоломку](http://geektimes.ru/post/260414/)
 
 ##Content
 
