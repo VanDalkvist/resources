@@ -162,3 +162,5 @@ TO WRITING:
 * [Diving](https://github.com/VanDalkvist/resources/blob/master/diving.md) - Different articles to understand "How does it work?".
 
 * [**Shopping**](https://github.com/VanDalkvist/resources/blob/master/shopping.md)
+
+* [Lego](https://github.com/VanDalkvist/resources/blob/master/lego.md)
