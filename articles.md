@@ -43,3 +43,5 @@
 * [Experiences in Evaluation with BKG - A Program that plays Backgammon ](http://ijcai.org/Past%20Proceedings/IJCAI-77-VOL1/PDF/074.pdf)
 
 * [AI Topics - Backgammon](http://aitopics.org/topic/backgammon)
+
+* [Как вести переговоры о повышении: Cоветы ИТ-специалисту](http://geektimes.ru/company/friifond/blog/259002/) - резюме, работа, повышение, советы
