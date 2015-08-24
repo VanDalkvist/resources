@@ -10,3 +10,8 @@
 
 - [Lego keyboard](http://jkbrickworks.com/lego-computer-keyboard/)
 
+- [Tilted Twister](http://tiltedtwister.com/) - Lego Robots by Hans Andersson
+
+- [Steampunk Walking Ship](http://jkbrickworks.com/steampunk-walking-ship/)
+
+- [Lego folksvagen (Mir-Kubikov)](http://mir-kubikov.ru/lego/eksklyuzivnye-nabory-lego/turisticheskiy-treyler-folksvagen-t1/)

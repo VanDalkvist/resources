@@ -1,3 +1,7 @@
+###Lego
+
+- [Lego folksvagen (Mir-Kubikov)](http://mir-kubikov.ru/lego/eksklyuzivnye-nabory-lego/turisticheskiy-treyler-folksvagen-t1/)
+
 ###Proxies
 
 * [Shopotam](http://shopotam.ru) - Proxy shop for many famous shops including ebay, amazon...
