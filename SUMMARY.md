@@ -24,3 +24,5 @@
 * [Languages](languages.md)
 * [Diving](diving.md)
 * [Shopping](shopping.md)
+* Lego
+
