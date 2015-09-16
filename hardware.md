@@ -6,6 +6,8 @@
 
 - [IoT Design Shop](http://iotdesignshop.com/?gclid=CK_tqsvmqsUCFQLncgodt3oAqA)
 
+- [IoTivity](https://www.iotivity.org/) - IoTivity is an open source software framework enabling seamless device-to-device connectivity to address the emerging needs of the Internet of Things.
+
 ###Frameworks
 
 [Cylon](https://github.com/hybridgroup/cylon/) - JavaScript Robotics, By Your Command.
