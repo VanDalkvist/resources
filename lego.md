@@ -15,3 +15,5 @@
 - [Steampunk Walking Ship](http://jkbrickworks.com/steampunk-walking-ship/)
 
 - [Lego folksvagen (Mir-Kubikov)](http://mir-kubikov.ru/lego/eksklyuzivnye-nabory-lego/turisticheskiy-treyler-folksvagen-t1/)
+
+- [Build-On Brick Mug(??????)](http://www.thinkgeek.com/product/ee3c/)
