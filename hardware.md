@@ -45,6 +45,9 @@
 
 * [arduinode(github)](https://github.com/ritz078/arduinode) - A project using arduino and node to transfer data on the browser and then control the arduino.
 
+* [Arduino Node.js RC Car Driven with the HTML5 Gamepad API](http://www.webondevices.com/arduino-nodejs-rc-car-driven-with-html5-gamepad-api/?from=headjs.ru)
+    > We constantly see developers pushing the limits of JavaScript; mobile and desktop applications, 3D games and so much more … but it’s a different story to connect a USB racing wheel to the browser and read it with the HTML5 Gamepad API and drive a Radio Controlled toy car through WebSockets and a Node.js server.
+
 ###Филимонов - Arduino and other microcontrollers experiments.
 
 * [**Погодная станция с Ethernet и планшетом в качестве устройства отображения**](http://habrahabr.ru/post/213405/)
