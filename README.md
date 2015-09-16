@@ -97,6 +97,9 @@
 
 [Cross browser to detect tab or window is active so animations stay in sync using HTML5 Visibility API](http://greensock.com/forums/topic/9059-cross-browser-to-detect-tab-or-window-is-active-so-animations-stay-in-sync-using-html5-visibility-api/)
 
+[Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 13. «Villa Siena»](http://habrahabr.ru/post/266377/)
+> Кевин Поулсен, редактор журнала WIRED, а в детстве blackhat хакер Dark Dante, написал книгу про «одного своего знакомого».
+
 #Thoughts
 
 TO WRITING: 
