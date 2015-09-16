@@ -25,4 +25,5 @@
 * [Diving](diving.md)
 * [Shopping](shopping.md)
 * [Lego](lego.md)
+* [Virtual Machines](VMs.md)
 

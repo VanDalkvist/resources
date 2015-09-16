@@ -167,3 +167,5 @@ TO WRITING:
 * [**Shopping**](https://github.com/VanDalkvist/resources/blob/master/shopping.md)
 
 * [Lego](https://github.com/VanDalkvist/resources/blob/master/lego.md)
+
+* [**Virtual Machines**](https://github.com/VanDalkvist/resources/blob/master/VMs.md)
