@@ -1,5 +1,6 @@
 # Resources, useful and for soul
 
+##Понимаете, доктор Стэдлер, люди не хотят думать. И чем глубже пропасть, в которую они попали, тем меньше им хочется думать.
 
 ##Inspiration
 
@@ -169,3 +170,5 @@ TO WRITING:
 * [Lego](https://github.com/VanDalkvist/resources/blob/master/lego.md)
 
 * [**Virtual Machines**](https://github.com/VanDalkvist/resources/blob/master/VMs.md)
+
+* [Citations](https://github.com/VanDalkvist/resources/blob/master/citations.md)
