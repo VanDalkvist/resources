@@ -121,9 +121,9 @@ TO WRITING:
 
 ##Content
 
-1. [**Common**](https://github.com/VanDalkvist/resources/blob/master/common.md)
+* [**Common**](https://github.com/VanDalkvist/resources/blob/master/common.md)
 
-2. [Services](https://github.com/VanDalkvist/resources/blob/master/services.md)
+* [Services](https://github.com/VanDalkvist/resources/blob/master/services.md)
 
 * [**Articles**](https://github.com/VanDalkvist/resources/blob/master/articles.md)
 
