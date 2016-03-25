@@ -174,3 +174,5 @@ TO WRITING:
 * [Citations](https://github.com/VanDalkvist/resources/blob/master/citations.md)
 
 * [**Icons**](https://github.com/VanDalkvist/resources/blob/master/icons.md)
+
+* [Photos](https://github.com/VanDalkvist/resources/blob/master/photos.md)
