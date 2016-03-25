@@ -179,4 +179,4 @@ TO WRITING:
 
 * [**Travels**](https://github.com/VanDalkvist/resources/blob/master/travels.md)
 
-* [**Web-studios**](https://github.com/VanDalkvist/resources/blob/master/web-studios.md)
+* [Web-studios](https://github.com/VanDalkvist/resources/blob/master/web-studios.md)
