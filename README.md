@@ -127,7 +127,7 @@ TO WRITING:
 
 * [**Articles**](https://github.com/VanDalkvist/resources/blob/master/articles.md)
 
-* [Web-libraries](https://github.com/VanDalkvist/resources/blob/master/web-libraries.md)
+* [Design](https://github.com/VanDalkvist/resources/blob/master/design.md)
 
 * [**Node.js**](https://github.com/VanDalkvist/resources/blob/master/node.js.md)
 
