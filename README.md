@@ -172,3 +172,6 @@ TO WRITING:
 * [**Virtual Machines**](https://github.com/VanDalkvist/resources/blob/master/VMs.md)
 
 * [Citations](https://github.com/VanDalkvist/resources/blob/master/citations.md)
+
+* [**Icons**](https://github.com/VanDalkvist/resources/blob/master/icons.md)
+* 
