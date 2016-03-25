@@ -178,3 +178,5 @@ TO WRITING:
 * [Photos](https://github.com/VanDalkvist/resources/blob/master/photos.md)
 
 * [**Travels**](https://github.com/VanDalkvist/resources/blob/master/travels.md)
+
+* [**Web-studios**](https://github.com/VanDalkvist/resources/blob/master/web-studios.md)
