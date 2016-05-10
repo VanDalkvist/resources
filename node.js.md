@@ -23,3 +23,7 @@
 * [**Architecting a Secure RESTful Node.js app**](http://thejackalofjavascript.com/architecting-a-restful-node-js-app/)
 
 * [*Node Security Project. Resources.*](https://nodesecurity.io/resources)
+
+###Compile
+
+* [Nexe](https://github.com/jaredallard/nexe) - Nexe is a command-line utility that compiles your Node.js application into a single executable file.

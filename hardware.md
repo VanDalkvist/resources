@@ -64,3 +64,7 @@
 ###3D Printers
 
 - [igo 3D](http://www.igo3d.ru/)
+
+###Windows logon
+
+- [RFID Windows login](http://www.trossenrobotics.com/rg-rfid-windows-login)
