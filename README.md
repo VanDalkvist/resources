@@ -182,3 +182,5 @@ TO WRITING:
 * [Web-studios](https://github.com/VanDalkvist/resources/blob/master/web-studios.md)
 
 * [**Tests**](https://github.com/VanDalkvist/resources/blob/master/tests.md)
+
+* [Windows](https://github.com/VanDalkvist/resources/blob/master/windows.md)
