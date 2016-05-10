@@ -28,3 +28,5 @@
         }, 100);
     });
     ```
+    
+* [Test'em](https://github.com/testem/testem) - `npm install testem -g`
