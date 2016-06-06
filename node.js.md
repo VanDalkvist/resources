@@ -27,3 +27,9 @@
 ###Compile
 
 * [Nexe](https://github.com/jaredallard/nexe) - Nexe is a command-line utility that compiles your Node.js application into a single executable file.
+
+###Packages
+
+* [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
+
+* [shortid](https://github.com/dylang/shortid) - Short id generator. Url-friendly. Non-predictable. Cluster-compatible.
