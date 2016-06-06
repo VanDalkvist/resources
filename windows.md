@@ -9,3 +9,7 @@ Relates to [.net](.net.md)
 - [Running a process at the Windows 7 Welcome Screen](http://stackoverflow.com/questions/3070152/running-a-process-at-the-windows-7-welcome-screen)
 
 - [Send Key list](https://www.autoitscript.com/autoit3/docs/appendix/SendKeys.htm)
+
+###[Scripting](http://steve-jansen.github.io/guides/windows-batch-scripting/index.html)
+
+- [Windows Batch Scripting: Stdin, Stdout, Stderr](http://steve-jansen.github.io/guides/windows-batch-scripting/part-4-stdin-stdout-stderr.html)
