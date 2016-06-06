@@ -86,3 +86,7 @@ Service for [Dict.org](http://www.dict.org/bin/Dict).
     > http://twinword.com/?view=full
     
 * [TwinWord](https://www.twinword.com/developer-api.php) - text analysis API resource.
+
+###Cloud Notification Providers
+
+* [Pushbullet](https://www.pushbullet.com/) - Pushbullet connects your devices, making them feel like one.
