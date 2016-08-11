@@ -30,3 +30,5 @@
     ```
     
 * [Test'em](https://github.com/testem/testem) - `npm install testem -g`
+
+* [Unit Testing ui-router Configuration](http://nikas.praninskas.com/angular/2014/09/27/unit-testing-ui-router-configuration/)

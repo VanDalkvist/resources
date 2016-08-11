@@ -20,6 +20,8 @@
 
 * [Styleguide](https://github.com/johnpapa/angular-styleguide)
 
-###Testing
+###Unit Tests
 
 * [Unit Testing ui-router Configuration](http://nikas.praninskas.com/angular/2014/09/27/unit-testing-ui-router-configuration/)
+
+* see more in [tests.md](https://github.com/VanDalkvist/resources/blob/master/tests.md)
