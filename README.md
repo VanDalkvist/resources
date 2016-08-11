@@ -86,6 +86,8 @@
 * [Bookmate - Рекомендации профессионалов](https://bookmate.com/bookshelves/L4KWMWsR)
 > Здесь собраны книги, рекомендованные читателям "Мегамозга" в рамках рубрики "Как работают профессионалы". Не только бизнес, но и художественная литература – все то, что читают и рекомендуют к прочтению наши герои.
 
+* [Ocean Wave Simulation](https://github.com/dli/waves)
+
 #Current
 
 * [DIY](https://github.com/VanDalkvist/resources/blob/master/DIY.md)
