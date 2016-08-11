@@ -88,6 +88,8 @@
 
 #Current
 
+* [DIY](https://github.com/VanDalkvist/resources/blob/master/DIY.md)
+
 ###[BBC cources](http://www.bbc.co.uk/learningenglish/english/course/upper-intermediate)
 
 [CodePen Ionic](http://codepen.io/ionic/popular/3/)
@@ -118,6 +120,8 @@ TO WRITING:
 - [Открытка-лабиринт. Подарок, который невозможно открыть, не разгадав головоломку](http://geektimes.ru/post/260414/)
 
 ##Content
+
+* [DIY](https://github.com/VanDalkvist/resources/blob/master/DIY.md)
 
 * [**Common**](https://github.com/VanDalkvist/resources/blob/master/common.md)
 
