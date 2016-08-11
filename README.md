@@ -90,10 +90,6 @@
 
 * [DIY](https://github.com/VanDalkvist/resources/blob/master/DIY.md)
 
-###[BBC cources](http://www.bbc.co.uk/learningenglish/english/course/upper-intermediate)
-
-[CodePen Ionic](http://codepen.io/ionic/popular/3/)
-
 [Skyforge: технологии рендеринга](http://habrahabr.ru/company/mailru/blog/248873/)
 
 [Cross browser to detect tab or window is active so animations stay in sync using HTML5 Visibility API](http://greensock.com/forums/topic/9059-cross-browser-to-detect-tab-or-window-is-active-so-animations-stay-in-sync-using-html5-visibility-api/)
