@@ -90,7 +90,9 @@
 
 #Current
 
-* [DIY](https://github.com/VanDalkvist/resources/blob/master/DIY.md)
+[DIY](https://github.com/VanDalkvist/resources/blob/master/DIY.md)
+
+[Remote Mouse movements via javascript](https://github.com/jeremija/remote-control-server/blob/master/src/js/components/mousepad.js)
 
 [Skyforge: технологии рендеринга](http://habrahabr.ru/company/mailru/blog/248873/)
 
