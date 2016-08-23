@@ -8,6 +8,8 @@
 
 - [IoTivity](https://www.iotivity.org/) - IoTivity is an open source software framework enabling seamless device-to-device connectivity to address the emerging needs of the Internet of Things.
 
+- [Home Automation using Raspberry Pi 2 and Windows 10 IoT](https://tessel.hackster.io/AnuragVasanwala/home-automation-0dcefc)
+
 ###Frameworks
 
 [Cylon](https://github.com/hybridgroup/cylon/) - JavaScript Robotics, By Your Command.
@@ -17,6 +19,8 @@
 [Node-RED](http://nodered.org/) - A visual tool for wiring the Internet of Things
 
     > Node-RED is a tool for wiring together hardware devices, APIs and online services in new and interesting ways.
+
+[Get started with Evothings Studio](https://evothings.com/getting-started-with-evothings-studio-in-90-seconds/)
 
 ###Devices
 
@@ -62,7 +66,6 @@
 
 - [Hackaday](https://hackaday.io)
 
-
 ###3D Printers
 
 - [igo 3D](http://www.igo3d.ru/)
@@ -70,3 +73,7 @@
 ###Windows logon
 
 - [RFID Windows login](http://www.trossenrobotics.com/rg-rfid-windows-login)
+
+###Javascript and IoT
+
+- [JavaScript выходит за пределы Web в 2015 году перевод](https://habrahabr.ru/post/281342/)
