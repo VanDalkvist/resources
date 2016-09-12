@@ -16,6 +16,10 @@
 
 * [Generic HTTP Error Handling in AngularJS](http://www.codelord.net/2014/06/25/generic-error-handling-in-angularjs/)
 
+###Directives
+
+* [Creating custom directives](http://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-i-the-fundamentals)
+
 ###Common
 
 * [Styleguide](https://github.com/johnpapa/angular-styleguide)
