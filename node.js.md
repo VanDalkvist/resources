@@ -33,3 +33,5 @@
 * [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 
 * [shortid](https://github.com/dylang/shortid) - Short id generator. Url-friendly. Non-predictable. Cluster-compatible.
+
+* [Advanced, production process manager for Node.js](http://pm2.keymetrics.io/) - npm install pm2 -g

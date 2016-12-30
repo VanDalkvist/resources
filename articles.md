@@ -34,6 +34,8 @@
 
 * [*Человек, который создал «Тетрис»*](http://habrahabr.ru/post/247589/)
 
+* [**Feature Toggles - Martin Fowler**](http://martinfowler.com/articles/feature-toggles.html)
+
 ### Design
 
 * [**58 признаков хорошего интерфейса**](http://habrahabr.ru/post/247367/)
