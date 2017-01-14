@@ -5,6 +5,7 @@
 ##English
 
 - [LevelPump](http://www.levelpump.com/) - Vocabulary improving service
+- [LanguageTool](https://languagetool.org/)
 
 - https://quizlet.com/
 - https://learnenglish.britishcouncil.org

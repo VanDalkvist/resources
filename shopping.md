@@ -15,6 +15,8 @@
 - [HiFiBerry](https://www.hifiberry.com/) - HiFiBerry – Enjoy your sound. (Hi-Fi level sound devices)
 - [БУДУЩЕЕ ЗДЕСЬ - ROBOTBAZA](http://robotbaza.ru/) - РОБОТЫ И РОБОТОТЕХНИКА
 - [Deal Extreme](http://www.dx.com/) - great gadgets, price and service
+- [GearBest](http://www.gearbest.com/)
+- [Mad Robots](http://madrobots.ru/)
 
 ###Sport
 

@@ -1,5 +1,9 @@
 #Hardware
 
+###Home things
+
+[Принципы работы Лайтпака и Призматика](https://github.com/Atarity/Lightpack-docs/blob/master/RUS/%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B.md)
+
 ###IoT
 
 - [The Internet of your things from Microsoft](https://dev.windows.com/en-us/iot)
@@ -77,3 +81,7 @@
 ###Javascript and IoT
 
 - [JavaScript выходит за пределы Web в 2015 году перевод](https://habrahabr.ru/post/281342/)
+
+###Computer cases
+
+- [Steampunk Moding](http://aiologs.net/projects/case3/finality)

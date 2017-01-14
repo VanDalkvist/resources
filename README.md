@@ -26,6 +26,8 @@
 
 * [**Awesome Nodejs**](https://github.com/sindresorhus/awesome-nodejs)
 
+* [**Free programming books**](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+
 #For usage
 
 * [**JavaScript-Garden**](http://bonsaiden.github.io/JavaScript-Garden/ru/) - it is the Bible of JavaScript hacks.
