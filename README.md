@@ -147,8 +147,6 @@ TO WRITING:
 
 * [**Software**](https://github.com/VanDalkvist/resources/blob/master/software.md)
 
-* [Hosting](https://github.com/VanDalkvist/resources/blob/master/hosting.md)
-
 * [**Algorithms**](https://github.com/VanDalkvist/resources/blob/master/algorithms.md)
 
 * [SQL](https://github.com/VanDalkvist/resources/blob/master/sql.md)
