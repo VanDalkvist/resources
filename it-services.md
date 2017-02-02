@@ -34,7 +34,13 @@
     > Responsinator helps website makers quickly get an indication of how their responsive site will look on the most popular devices.
     
 * [Yandex Manul](http://yandex.ru/promo/manul#about) - Manul — бесплатный антивирус для вашего сайта
-    
+
+#Hosting
+
+* [Node-Hosting](https://github.com/joyent/node/wiki/Node-Hosting)
+
+* [Виртуальные сервера от 4.99$ VDS хостинг. VPS хостинг. Виртуальный выделенный сервер - VDS / VPS сервера - CloudMouse.com](https://cloudmouse.com/) 
+   
 ###App builders
 
 [Parse](https://www.parse.com/)

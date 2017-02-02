@@ -2,6 +2,10 @@
 
 ###[BBC cources](http://www.bbc.co.uk/learningenglish/english/course/upper-intermediate)
 
+###Schools
+
+- [SkyEng](http://skyeng.ru/) - Изучайте английский язык по скайпу
+
 ##English
 
 - [LevelPump](http://www.levelpump.com/) - Vocabulary improving service

@@ -75,8 +75,6 @@
 
 * [*CodeWars*](http://www.codewars.com/dashboard)
 
-* [**Комментарии к «Интерстеллар» – кто такие высшие существа?**](http://geektimes.ru/post/247728/)
-
 * [*Css Architecture*](http://philipwalton.com/articles/css-architecture/)
 
 * [**О размере экрана, пикселя и элемента**](http://habrahabr.ru/post/229359/)
@@ -89,16 +87,6 @@
 > Здесь собраны книги, рекомендованные читателям "Мегамозга" в рамках рубрики "Как работают профессионалы". Не только бизнес, но и художественная литература – все то, что читают и рекомендуют к прочтению наши герои.
 
 * [Ocean Wave Simulation](https://github.com/dli/waves)
-
-#Current
-
-[DIY](https://github.com/VanDalkvist/resources/blob/master/DIY.md)
-
-[Remote Mouse movements via javascript](https://github.com/jeremija/remote-control-server/blob/master/src/js/components/mousepad.js)
-
-[Skyforge: технологии рендеринга](http://habrahabr.ru/company/mailru/blog/248873/)
-
-[Cross browser to detect tab or window is active so animations stay in sync using HTML5 Visibility API](http://greensock.com/forums/topic/9059-cross-browser-to-detect-tab-or-window-is-active-so-animations-stay-in-sync-using-html5-visibility-api/)
 
 [Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 13. «Villa Siena»](http://habrahabr.ru/post/266377/)
 > Кевин Поулсен, редактор журнала WIRED, а в детстве blackhat хакер Dark Dante, написал книгу про «одного своего знакомого».
@@ -123,11 +111,15 @@ TO WRITING:
 
 ##Content
 
+* [Goods and Services](https://github.com/VanDalkvist/resources/blob/master/goods-and-services.md)
+
+* [**Business**](https://github.com/VanDalkvist/resources/blob/master/business.md)
+
 * [DIY](https://github.com/VanDalkvist/resources/blob/master/DIY.md)
 
 * [**Common**](https://github.com/VanDalkvist/resources/blob/master/common.md)
 
-* [Services](https://github.com/VanDalkvist/resources/blob/master/services.md)
+* [Services](https://github.com/VanDalkvist/resources/blob/master/it-services.md)
 
 * [**Articles**](https://github.com/VanDalkvist/resources/blob/master/articles.md)
 

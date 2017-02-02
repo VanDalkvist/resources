@@ -1,6 +1,12 @@
 #Articles
 
-* [Как вести переговоры о повышении: Cоветы ИТ-специалисту](http://geektimes.ru/company/friifond/blog/259002/) - резюме, работа, повышение, советы
+* [*Комментарии к «Интерстеллар» – кто такие высшие существа?*](http://geektimes.ru/post/247728/)
+
+* [**Cross browser to detect tab or window is active so animations stay in sync using HTML5 Visibility API**](http://greensock.com/forums/topic/9059-cross-browser-to-detect-tab-or-window-is-active-so-animations-stay-in-sync-using-html5-visibility-api/)
+
+* [*Skyforge: технологии рендеринга*](http://habrahabr.ru/company/mailru/blog/248873/)
+
+* [**Remote Mouse movements via javascript**](https://github.com/jeremija/remote-control-server/blob/master/src/js/components/mousepad.js)
 
 * [*Мозг*](http://habrahabr.ru/post/250625/)
 
