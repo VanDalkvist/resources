@@ -17,3 +17,7 @@
 - [Lego folksvagen (Mir-Kubikov)](http://mir-kubikov.ru/lego/eksklyuzivnye-nabory-lego/turisticheskiy-treyler-folksvagen-t1/)
 
 - [Build-On Brick Mug(??????)](http://www.thinkgeek.com/product/ee3c/)
+
+###Articles
+
+- [5 Things I Learnt as a Designer at LEGO](https://5thingsilearned.com/5-things-i-learnt-as-a-designer-at-lego-25705816376d#.x3eentvq2)

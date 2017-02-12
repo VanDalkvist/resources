@@ -17,6 +17,8 @@
 
 - [Английский для работы: советы из собственного опыта](https://geektimes.ru/company/plarium/blog/272338/)
 
+- http://www.penpalworld.com/ - Connect with people all over the world
+
 ###Audio Podcasts
 
 - https://www.eslpod.com/website/index.php

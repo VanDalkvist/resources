@@ -53,3 +53,9 @@
 * [Experiences in Evaluation with BKG - A Program that plays Backgammon ](http://ijcai.org/Past%20Proceedings/IJCAI-77-VOL1/PDF/074.pdf)
 
 * [AI Topics - Backgammon](http://aitopics.org/topic/backgammon)
+
+###Development
+
+* [How it's made: этапы создания современного смартфона](https://geektimes.ru/company/mvideo/blog/277792/)
+
+* [ТехноLive: VR и платформы будущего (Максим Пестун, Дмитрий Трубицын)](https://habrahabr.ru/company/mailru/blog/318640/)
