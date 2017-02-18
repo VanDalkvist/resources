@@ -182,3 +182,5 @@ TO WRITING:
 * [Windows](https://github.com/VanDalkvist/resources/blob/master/windows.md)
 
 * [**Investments**](https://github.com/VanDalkvist/resources/blob/master/investments.md)
+
+* [Games](https://github.com/VanDalkvist/resources/blob/master/games.md)
