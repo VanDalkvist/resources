@@ -1,10 +1,10 @@
 # Resources, useful and for soul
 
-##Понимаете, доктор Стэдлер, люди не хотят думать. И чем глубже пропасть, в которую они попали, тем меньше им хочется думать.
+## Понимаете, доктор Стэдлер, люди не хотят думать. И чем глубже пропасть, в которую они попали, тем меньше им хочется думать.
 
 [House building](https://smartprogress.do/building)
 
-##Inspiration
+## Inspiration
 
 [Great lion on THREE and WebGL](http://codepen.io/Yakudoo/pen/YXxmYR)
 
@@ -22,7 +22,7 @@
 
    -- [*Scott Hanselman (@shanselman)*](https://twitter.com/shanselman/status/461532471037677568)
 
-#Awesome Lists
+# Awesome Lists
 
 * [**Awesome list of awesome lists**](https://github.com/sindresorhus/awesome)
 
@@ -30,7 +30,7 @@
 
 * [**Free programming books**](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 
-#For usage
+# For usage
 
 * [**JavaScript-Garden**](http://bonsaiden.github.io/JavaScript-Garden/ru/) - it is the Bible of JavaScript hacks.
 
@@ -67,11 +67,11 @@
 
 * [Ghost](https://github.com/TryGhost/Ghost) - Ghost is a simple, powerful publishing platform that allows you to share your stories with the world.
 
-#To learn
+# To learn
 
 * [Learn X in Y minutes](http://learnxinyminutes.com/) - Take a whirlwind tour of your next favorite language. Community-driven!
 
-#Spare Time
+# Spare Time
 
 * [**CodeEval**](https://www.codeeval.com/)
 
@@ -93,7 +93,7 @@
 [Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 13. «Villa Siena»](http://habrahabr.ru/post/266377/)
 > Кевин Поулсен, редактор журнала WIRED, а в детстве blackhat хакер Dark Dante, написал книгу про «одного своего знакомого».
 
-#Thoughts
+# Thoughts
 
 TO WRITING: 
 
@@ -111,7 +111,7 @@ TO WRITING:
 
 - [Открытка-лабиринт. Подарок, который невозможно открыть, не разгадав головоломку](http://geektimes.ru/post/260414/)
 
-##Content
+## Content
 
 * [Goods and Services](https://github.com/VanDalkvist/resources/blob/master/goods-and-services.md)
 
